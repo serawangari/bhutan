@@ -1,0 +1,342 @@
+osm_id,osm_type,staff_count_nurses,healthcare,opening_hours,toilets_disposal,health_facility_bed,health_facility_level,medical_system_western,access,staff_count_doctors,toilets_handwashing,health_facility_type,status,name,shop,amenity,operator_type,operator,longitude,latitude,geom_type
+"10743475166",nodes,,hospital,,,,,,,,,,,Khamdang BHU I,,hospital,government,Dr. Chimi Lhakey Zam (MOIC (Medical Doctor)),91.5719277,27.4619833,POINT
+"10207111542",nodes,,hospital,,,,,,,,,,,"PHC, Choekhorling",,hospital,,,91.3416544,26.8294352,POINT
+"4571507994",nodes,,,,,,,,,,,,,,,clinic,,,91.3324819,27.1118115,POINT
+"10743479435",nodes,,hospital,,,,,,,,,,,Melongkhar BHU II,,hospital,government,Tshewang Sithar (DHO),91.6593191,27.4728264,POINT
+"5568666023",nodes,,hospital,,,,,,,,,,,Rangjoong BHU I,,hospital,,Dr Ngajay Jamtsho,91.6624742,27.3591029,POINT
+"7153386873",nodes,,,,,,,,,,,,,Borengajuli Tea Estate Hospital,,hospital,,,91.8072736,26.7397494,POINT
+"7153386683",nodes,,,,,,,,,,,,,Hattigor T.E. NHRM Hospital,,hospital,,,91.9323039,26.7787135,POINT
+"9889517948",nodes,,pharmacy,,,,,,,,,,,,,pharmacy,,,89.6394994,27.4731936,POINT
+"10744730462",nodes,,hospital,,,,,,,,,,,Teki Agona BHU,,hospital,government,Zangmo,89.9934772,27.5039624,POINT
+"4791617723",nodes,,,,,,,,,,,,,,,pharmacy,,,91.2387172,27.2766917,POINT
+"10787348996",nodes,,hospital,,,,,,,,,,,TrashiYangtse Hospital,,hospital,government,"Dr. Namsa Dorj, (CMO)",91.4972627,27.6023836,POINT
+"10181901001",nodes,,hospital,,,,,,,,,,,Shingkhar BHU,,hospital,,Karchung,90.9409693,27.248954,POINT
+"10208857753",nodes,,clinic,,,,,,,,,,,General Ward,,clinic,,,91.4225831,27.0290975,POINT
+"10208857752",nodes,,clinic,,,,,,,,,,,Emergency Ward,,clinic,,,91.4227101,27.0289733,POINT
+"10208904329",nodes,,hospital,,,,,,,,,,,Nanong BHU,,hospital,government,"Kinley Dorji (DHO);Tshering Dorji (ADHO)",91.4586879,27.1207672,POINT
+"10772536305",nodes,,hospital,,,,,,,,,,,Jaigaon Primary Hospital,,hospital,,,89.3848665,26.8418359,POINT
+"5596194222",nodes,,hospital,,,,,,,,,,,Udalguri PHC,,hospital,,,92.0974002,26.7478202,POINT
+"11340643617",nodes,,,,,,,,,,,,,One gewog one product,nutrition_supplements,,,,89.4209015,27.4050715,POINT
+"10300365309",nodes,,,,,,,,,,,,,,,pharmacy,,,89.6387722,27.4718539,POINT
+"4370810224",nodes,,pharmacy,,,,,,,,,,,New Life Pharmacy,,pharmacy,,,89.6403579,27.4689224,POINT
+"4370640273",nodes,,pharmacy,08:30-22:00,,,,,,,,,,Kuenphen Medical,,pharmacy,,,89.6387512,27.4717843,POINT
+"4585098001",nodes,,,,,,,,,,,,,,,clinic,,,89.6380435,27.4648497,POINT
+"7666886972",nodes,,,,,,,,,,,,,Dumchipara TG Hospital,,hospital,,,89.235177,26.752401,POINT
+"10758242213",nodes,,hospital,,,,,,,,,,,Medical Supplies Procurement Division,,hospital,,,89.640368,27.4615076,POINT
+"4585124093",nodes,,,,,,,,,,,,,,,doctors,,,89.638016,27.4621814,POINT
+"4421494773",nodes,,hospital,,,,,,,,,,,Hospital,,hospital,,,89.660783,27.455188,POINT
+"9448113620",nodes,,,,,,,,,,,,,Hrebal Nutrition,herbalist,,,,89.6589256,27.4393543,POINT
+"4214932626",nodes,,pharmacy,,,,,,,,,,,Wamling Pharmaceuticals & Medical Supplies,,pharmacy,,Mr. Rinchen Phuntsho,89.6393418,27.4696617,POINT
+"10758208398",nodes,,hospital,,,,,,,,,,,Gyaltsuen Jetsuen Pema Mother and Child Hospital,,hospital,,,89.6361351,27.4629605,POINT
+"4361079780",nodes,,pharmacy,,,,,,,,,,,Laxmi Pharmacy,,pharmacy,,,89.6393254,27.4699796,POINT
+"4358984389",nodes,,pharmacy,We-Mo 10:00-21:00,,,,,,,,,,,,pharmacy,,,89.6392254,27.4698408,POINT
+"10756785355",nodes,,pharmacy,,,,,,,,,,,MenjongSorig Pharmaceuiticals,,pharmacy,,,89.6308236,27.4824897,POINT
+"6229947933",nodes,,,,,,,,,,,,,IMTRAT Hospital,,hospital,,,89.291811,27.3776862,POINT
+"9726057784",nodes,,hospital,,,,,,,,,,,Bali BHU,,hospital,,,89.2803297,27.3904334,POINT
+"8221549795",nodes,,,,,,,,,,,,,Primary Health Center Chipsu Tsomogo,,clinic,,,88.7531931,27.3743575,POINT
+"7050847308",nodes,,,,,,,,,,,,,Jeevan Suraksha Nursing Home,,clinic,,,89.1419975,26.7141013,POINT
+"11637788377",nodes,,hospital,,,,,,,,,,,Hospital's Staff Quarter I,,hospital,,Hospital,91.1853885,27.6719794,POINT
+"11637788380",nodes,,hospital,,,,,,,,,,,Hospital's Staff Quarter IV,,hospital,,Hospital,91.1858671,27.6713,POINT
+"7153386727",nodes,,centre,,,,,,,,,dispensary,,Subankhata State Dispensary,,clinic,,,91.41602,26.758697,POINT
+"7666886946",nodes,,hospital,,,,,,,,,,,Government Hospital,,hospital,,,88.803572,26.878465,POINT
+"10209095967",nodes,,hospital,,,,,,,,,,,Kerong ORC,,hospital,,,91.3280477,26.9019314,POINT
+"10207067497",nodes,,alternative,Mo-Su 09:00-21:00,,,,,,,,,,Traditional Medicine Services Center,,,,,91.3478763,27.0187996,POINT
+"10208857754",nodes,,clinic,,,,,,,,,,,Healthcare Service,,clinic,,,91.4227718,27.0291477,POINT
+"10208806688",nodes,,hospital,,,,,,,,,,,ORC,,hospital,government,Village Health Worker,91.4792651,27.0452751,POINT
+"10918367110",nodes,,,"Su-Th 09:00-15:00; Fr 09:00-13:00",,,,,,,,,,"Department of Dentistry  (Dental Hospital), JDWNRH, Taba",,hospital,,,89.6465541,27.5126684,POINT
+"10765632909",nodes,,hospital,,,,,,,,,,,Daagsa BHU II,,hospital,,,91.1887105,27.0245248,POINT
+"10209095968",nodes,,hospital,,,,,,,,,,,Dezama ORC,,hospital,,,91.2778285,26.8406275,POINT
+"10208861743",nodes,,hospital,,,,,,,,,,,Nganglam BHU I,,hospital,,,91.2495749,26.8435588,POINT
+"10779026823",nodes,,hospital,,,,,,,,,,,Langdorbi BHU,,hospital,,,90.9603696,27.0521878,POINT
+"6908097600",nodes,,,,,,,,,,,,,"District Hospital, Tawang",,hospital,government,,91.8646409,27.5890458,POINT
+"9452512330",nodes,,,,,,,,,,,,,,,pharmacy,,,89.6476497,27.4316461,POINT
+"4428414097",nodes,,hospital,,,,,,,,,,,Menlha Phramacy,,hospital,,,89.647131,27.4574052,POINT
+"4361121260",nodes,,pharmacy,,,,,,,,,,,Evergreen,,pharmacy,,,89.6405573,27.469703,POINT
+"7153386758",nodes,,,,,,,,,,,,,Udalguri Civil Hospital,,hospital,,,92.078817,26.719912,POINT
+"7537159831",nodes,,,,,,,,,,,,,Dr. Mridul Soren,,doctors,,,92.096121,26.7351219,POINT
+"7537159792",nodes,,clinic,,,,,,,,,,,Khaklari Clinic,,clinic,,,92.1040136,26.7493034,POINT
+"7153386789",nodes,,hospital,,,,,,,,,,,Pakribari Hospital,,hospital,,,92.0497212,26.7827777,POINT
+"6063760985",nodes,,hospital,,,,,,,,,,,Jomotsangkha BHU I,,hospital,government,Dr.Narayan Raizal,92.110132,26.8978849,POINT
+"4789456421",nodes,,pharmacy,We-Mo 09:00-20:00,,,,,,,,,,Modern pharmacy,,pharmacy,,Bhim Maya Pokhrel,89.6393821,27.4737267,POINT
+"4214868851",nodes,,hospital,,,,,,,,,,,Satellite Health clinic,,hospital,,"Ministry of Health,",89.6549287,27.452712,POINT
+"10182393343",nodes,,hospital,,,,,,,,,,,Mewangang ORC,,hospital,,,90.9336882,26.985022,POINT
+"10788321142",nodes,,hospital,,,,,,,,,,,Kradijong BHU,,hospital,,,90.7558548,26.9590924,POINT
+"4133319212",nodes,,,,,,,,,,,,,BHU,,hospital,,,89.8912219,27.3857993,POINT
+"10788216624",nodes,,hospital,,,,,,,,,,,Laya BHU,,hospital,,,89.6830694,28.0617552,POINT
+"6585426289",nodes,,,,,,,,,,,,,,,clinic,,,89.5688499,27.4055731,POINT
+"10250103509",nodes,,,,,,,,,,,,,Lhamoizingkha Hospital,,hospital,,,90.3525026,27.2379011,POINT
+"9507756417",nodes,,,,,,,,,,,,,,,pharmacy,,,89.6593785,27.4394021,POINT
+"4499885846",nodes,,,,,,,,,,,,,Druk pharmacy,,hospital,,,89.6605936,27.4460062,POINT
+"4377010747",nodes,,hospital,,,,,,,,,,,Samdrup Jongkhar Hospital,,hospital,government,Dr. Kezang Dorji,91.5086783,26.8002591,POINT
+"7153386859",nodes,,,,,,,,,,,,,Nikashi Civil Hospital,,hospital,,,91.378296,26.728677,POINT
+"11637788379",nodes,,hospital,,,,,,,,,,,Hospital's Staff Quarter III,,hospital,,Hospital,91.1855854,27.6714137,POINT
+"11652471395",nodes,,hospital,,,,,,,,,,,Medical Store,,hospital,government,District Hospital,91.1855509,27.6727954,POINT
+"4358935592",nodes,,pharmacy,,,,,,,,,,,,,pharmacy,,,89.6362344,27.4763949,POINT
+"4357630389",nodes,,hospital,,,,,,,,,,,,,hospital,,,89.6402858,27.4685068,POINT
+"7153386799",nodes,,centre,,,,,,,,,dispensary,,Khatorbari State Dispensary,,clinic,,,91.6528228,26.7111768,POINT
+"7153386814",nodes,,,,,,,,,,,,,Atterikhat Tea Estate Hospital,,hospital,,,91.7513379,26.7267163,POINT
+"7153386777",nodes,,,,,,,,,,,,,Dimakuchi Tea Estate Hospital,,hospital,,,91.843191,26.743026,POINT
+"7153386775",nodes,,,,,,,,,,,,,Paneri Tea Estate Hospital,,hospital,,,91.8913927,26.7449311,POINT
+"7150745473",nodes,,,,,,,,,,,,,Nonaipara Hospital,,hospital,,,91.871661,26.845787,POINT
+"7153386690",nodes,,,,,,,,,,,,,"Bhooteachang Hospital, Bhooteachang",,hospital,,,91.891026,26.7952297,POINT
+"7153386710",nodes,,,,,,,,,,,,,Suola Tea Estate Hospital,,hospital,,,91.75147,26.718317,POINT
+"7153386699",nodes,,,,,,,,,,,,,Majuli Hospital,,hospital,,,91.945076,26.803012,POINT
+"5675410421",nodes,,clinic,,,,,,,,,,,,,clinic,,,90.5414749,26.8464833,POINT
+"10743388500",nodes,,hospital,,,,,,,,,,,Thragom BHU II,,hospital,government,Tshewang Sithar (DHO),91.6399417,27.4395935,POINT
+"7666886958",nodes,,,,,,,,,,,,,Ramjhora T.G Hospital,,hospital,,,89.2004,26.756592,POINT
+"7666886970",nodes,,,,,,,,,,,,,Birpara State General Hospital,,hospital,,,89.143964,26.7150912,POINT
+"4585124094",nodes,,,,,,,,,,,,,,,doctors,,,89.6376261,27.4626305,POINT
+"2403278525",nodes,,,,,,,,,,,,,Kuenphen Medical,,pharmacy,,,89.6403811,27.4630021,POINT
+"4461175291",nodes,,pharmacy,,,,,,,,,,,,,pharmacy,,,89.6392054,27.4635017,POINT
+"10745460803",nodes,,hospital,,,,,,,,,,,Yebilaptsa Hospital,,hospital,,Dr. Dadi Ram Darjee (CMO),90.7011185,27.1328082,POINT
+"9761679180",nodes,,,,,,,,,,,,,Sub-post,,clinic,,Mekuri sub-post,91.2331295,26.9570811,POINT
+"7153386717",nodes,,centre,,,,,,,,,dispensary,,"State Dispensary, Harisinga",,clinic,,,91.9878124,26.728958,POINT
+"4394408492",nodes,,,,,,,,,,,,,,,hospital,,,91.6762694,27.3637061,POINT
+"4428414291",nodes,,hospital,,,,,,,,,,,Padkar Diagnostic Center,,hospital,,,89.6470529,27.4574678,POINT
+"7537159837",nodes,,,,,,,,,,,,,Bikash Clinic,,clinic,,,92.1258029,26.8465731,POINT
+"4370624638",nodes,,pharmacy,09:00-18:30,,,,,,,,,,City Pharmacy,,pharmacy,,,89.6395999,27.4709114,POINT
+"4383833790",nodes,,clinic,,,,,,,,,,,,,clinic,,,89.6359003,27.4686582,POINT
+"4370810245",nodes,,hospital,,,,,,,,,,,IMTART Hospital,,hospital,,,89.6385208,27.4694181,POINT
+"7153386704",nodes,,,,,,,,,,,,,Bamunjuli Tea Estate Hospital,,hospital,,,91.8313484,26.8156567,POINT
+"10747634647",nodes,,hospital,,,,,,,,,,,Samdrupchhoeling BHU I,,hospital,government,Dr.Ugyen Thinley,91.7087938,26.8838784,POINT
+"10209074116",nodes,,hospital,,,,,,,,,,,ORC,,hospital,government,Health Assistant,91.4256912,27.1034969,POINT
+"4435521690",nodes,,pharmacy,,,,,,,,,,,,,pharmacy,,,89.6388985,27.4709242,POINT
+"9441660918",nodes,,,,,,,,,,,,,,,pharmacy,,,89.6554987,27.4367322,POINT
+"4499885483",nodes,,,,,,,,,,,,,Kuenphen Rabten[pharmacy],,hospital,,,89.6608666,27.4452844,POINT
+"10187863817",nodes,,,,,,,,,,,,,,,hospital,,,90.6580234,27.2193163,POINT
+"4370628445",nodes,,doctor,,,,,,,,,,,Office of the Bhutan Health Trust Fund,,doctors,,,89.6350278,27.4735377,POINT
+"11637788378",nodes,,hospital,,,,,,,,,,,Hospital's Staff Quarter II,,hospital,,Hospital,91.1854522,27.6716675,POINT
+"4369796989",nodes,,hospital,,,,,,,,,,,RBA Hospital (old),,hospital,,,89.6598614,27.4558025,POINT
+"7199768940",nodes,,,,,,,,,,,,,Birpara State General Hospital,,hospital,,,89.1439455,26.7147424,POINT
+"975481299",ways_poly,,hospital,,,,,,,,,,,Pantang BHU,,hospital,,Karchung,90.8554083335992,26.9705333244276,POLYGON
+"974999884",ways_poly,,hospital,,,,,,,,,,,Pemathang BHU II,,hospital,government,"Pema Tshewang, Dawa Gyeltshen",91.7449781,26.90082465,POLYGON
+"1155390887",ways_poly,,hospital,,,,,,,,,,,Sarpang Hospital,,hospital,,Dr. Yeshey Dorji (CMO),90.2647616021803,26.866111966385,POLYGON
+"1155396744",ways_poly,,hospital,,,,,,,,,,,Umling BHU,,hospital,,Tshering Penjor (Sr. DHO),90.5414614435903,26.8464626478257,POLYGON
+"1155453376",ways_poly,,hospital,,,,,,,,,,,Sibsoo Hospital,,hospital,,,88.88365855,27.03518025,POLYGON
+"973509315",ways_poly,,hospital,,,,,,,,,,,Jurmed BHU II,,hospital,,"Tshering Dorji;Deki Phuntsho",91.2545376292236,27.0937394275912,POLYGON
+"1155385441",ways_poly,,hospital,,,,,,,,,,,Singye BHU,,hospital,,Dawa Pelzang (DHO),90.2094258601767,26.846333761094,POLYGON
+"1127314007",ways_poly,,hospital,,,,,,,,,,,Mendrelgang BHU,,hospital,government,Kinley,90.132654949866,26.9530642832313,POLYGON
+"1119790218",ways_poly,,hospital,,,,,,,,,,,Nimtola PHC,,hospital,government,Dorji Wangchuk and Tenzin (DHO),89.85832121624,26.905677504416,POLYGON
+"1013281384",ways_poly,,hospital,,,,,,,,,,,Panbari BHU,,hospital,,Thinley Choden (DHO),89.257467634872,26.8940937056939,POLYGON
+"1155418619",ways_poly,,hospital,,,,,,,,,,,Hongtsho BHU,,hospital,,Kencho Wangdi (Sr. DHO),89.7238167,27.4891129,POLYGON
+"1155292417",ways_poly,,hospital,,,,,,,,,,,Sergithang BHU I,,hospital,,Kinley (Sr. District Health Officer),90.1257172,27.11207085,POLYGON
+"1058455045",ways_poly,,,,,,,,,,,,,Dorithasa BHU-II,,hospital,,Samten (DHO),89.151784967673,27.1446156694924,POLYGON
+"1155862391",ways_poly,,hospital,,,,,,,,,,,Patsaling BHU,,hospital,government,Tashi Dawa (Sr. District Health Officer),90.1620143249069,26.9525480101527,POLYGON
+"1155963690",ways_poly,,hospital,,,,,,,,,,,Duenchukha BHU,,hospital,,Thinley Choden (DHO),89.2422868885916,27.0327012783219,POLYGON
+"1172066936",ways_poly,,hospital,,,,,,,,,,,Khatikha BHU I,,hospital,government,Dr. Bhawesh Rai (CMO),89.4208840538946,26.9899903801478,POLYGON
+"1155376271",ways_poly,,hospital,,,,,,,,,,,Gakidling BHU,,hospital,government,Dawa Pelzang (DHO),90.4424913822637,27.061403181805,POLYGON
+"977514356",ways_poly,,hospital,,,,,,,,,,,Dawakha BHU,,hospital,,Karma Chendup (ADHO),89.5077311195248,27.2738621746512,POLYGON
+"1155371798",ways_poly,,hospital,,,,,,,,,,,Bueltikha BHU,,hospital,government,Choki Wangmo (DHO),89.4145749159909,27.2435165390893,POLYGON
+"1155377138",ways_poly,,hospital,,,,,,,,,,,Drugyal BHU,,hospital,,Choki Wangmo (DHO),89.3272492282422,27.4845258587119,POLYGON
+"1029849150",ways_poly,,hospital,,,,,,,,,,,Tshochasa BHU,,hospital,government,Namgay Dawa,89.9000781154563,27.5515955574672,POLYGON
+"1000609040",ways_poly,,hospital,,,,,,,,,,,Shengana BHU,,hospital,government,Namgay Dawa,89.9244905856616,27.6027503110648,POLYGON
+"974120269",ways_poly,,hospital,,,,,,,,,,,Pretengma BHU,,hospital,,"Kinley Dorji (DHO);Tshering Dorji (ADHO)",91.3966613062307,26.9887427857203,POLYGON
+"1113539368",ways_poly,,hospital,,,,,,,,,,,Olf ORC,,hospital,,,90.8739128534778,26.9186382220623,POLYGON
+"699288657",ways_poly,,hospital,,,,,,,,,,,Norbuling BHU,,hospital,government,Dawa Pelzang(DHO),90.5292208891092,26.8844384139853,POLYGON
+"1061101874",ways_poly,,hospital,,,,,,,,,,,Nabji sub post,,hospital,,,90.5320393278923,27.1890604806738,POLYGON
+"1155246322",ways_poly,,hospital,,,,,,,,,,,Tsakaling BHU II,,hospital,government,"Tshering Dorji;Deki Phuntsho",91.2198003737082,27.3547705810087,POLYGON
+"975659667",ways_poly,,hospital,,,,,,,,,,,Ura BHU,,hospital,government,"Jigme Kelzang;Sonam Tenzin;Kinga Geltshen;Thinley Dorji",90.9090763632831,27.4795116312699,POLYGON
+"970424587",ways_poly,,hospital,,,,,,,,,,,Tang BHU,,hospital,government,"Jigme Kelzang;Sonam Tenzin;Kinga Geltshen;Thinley Dorji",90.8743864365708,27.5718424664736,POLYGON
+"968907903",ways_poly,,hospital,,,,,,,,,,,Kuengarabten BHU,,hospital,government,Dolley Tshering,90.5155748700718,27.4118463414993,POLYGON
+"1125594257",ways_poly,,hospital,,,,,,,,,,,lhayul BHU,,hospital,,,90.38474785,27.02689205,POLYGON
+"1155377283",ways_poly,,hospital,,,,,,,,,,,Jangchubling BHU,,hospital,government,Dawa Pelzang (DHO),90.3425592328248,27.0513828122449,POLYGON
+"974600406",ways_poly,,,,,,,,,,,,,Baling ORC,,clinic,,Health,90.6076163541837,27.2893517290671,POLYGON
+"1155267894",ways_poly,,hospital,,,,,,,,,,,Chonggeykha BHU,,hospital,government,"Passang Tshering;Passang Tshering Turn",89.4374709406242,26.9811163728768,POLYGON
+"1122944398",ways_poly,,hospital,,,,,,,,,,,Bara BHU,,hospital,,Thinley Choden (DHO),88.8473803801128,27.1257775607398,POLYGON
+"1061029848",ways_poly,,hospital,,,,,,,,,,,Tashiling BHU,,hospital,government,Dorji Gyeltshen,90.4526876896962,27.4611637979201,POLYGON
+"981830761",ways_poly,,hospital,,,,,,,,,,,Dorokha BHU I,,hospital,,Dr.Nirmala Gurung (MOIC),89.2069823512706,26.9959111775492,POLYGON
+"972362861",ways_poly,,hospital,,,,,,,,,,,Gaselo BHU,,hospital,government,Zangmo,89.8866879,27.41912135,POLYGON
+"972495830",ways_poly,,hospital,,,,,,,,,,,Bjemithangkha BHU,,hospital,government,Zangmo,89.8989393331425,27.4139341649023,POLYGON
+"1159998039",ways_poly,,hospital,,,,,,,,,,,Goshing BHU,,hospital,government,Karchung,90.9031643989738,26.9396027561777,POLYGON
+"1113537266",ways_poly,,hospital,,,,,,,,,,,Tashibi subpost,,hospital,,,90.8677518711413,26.9164752297981,POLYGON
+"1062631492",ways_poly,,hospital,,,,,,,,,,,Trongsa District Hospital,,hospital,government,Dr. Prethi Giri (CMO),90.5058416908485,27.5043212434283,POLYGON
+"1155378577",ways_poly,,hospital,,,,,,,,,,,Jigme Choeling BHU,,hospital,government,Dawa Pelzang (DHO),90.5554626332964,27.0053065171571,POLYGON
+"463847484",ways_poly,,hospital,,,,,,,,,,,Dungkar BHU II,,hospital,,Dr. Tandin Lham (CMO),91.1126551883616,27.8231311150058,POLYGON
+"978479015",ways_poly,,hospital,,,,,,,,,,,Chengmari BHU,,hospital,,,89.0327968316518,26.9349019908917,POLYGON
+"1155371774",ways_poly,,hospital,,,,,,,,,,,Uma BHU,,hospital,government,Rinchen Dorji (ADHO),89.9428851328531,27.2986012869354,POLYGON
+"1155269063",ways_poly,,hospital,,,,,,,,,,,Dagapela Hospital,,hospital,government,Mr. Kado Wangdi,89.9552200055996,26.9338482251708,POLYGON
+"999690894",ways_poly,,,,,,,,,,,,,,,hospital,,,89.859289503004,27.5845444377743,POLYGON
+"1126931601",ways_poly,,hospital,,,,,,,,,,,Thimyul BHU-II,,hospital,,Ugyen Dorji(DHO),91.1551279857402,27.7136401978776,POLYGON
+"1058857762",ways_poly,,,,,,,,,,,,,Military Hospital,,hospital,,,89.2916662675107,27.3774019229969,POLYGON
+"982253298",ways_poly,,hospital,,,,,,,,,,,Haa Hospital,,hospital,government,Mr. Tshewang Gyeltsen (CMO),89.2866580619115,27.3824320184791,POLYGON
+"1155368650",ways_poly,,hospital,,,,,,,,,,,Saephoog BHU,,hospital,government,Zangmo(Dy.Chief District Health Office),90.2970667375315,27.5196995934627,POLYGON
+"1155372434",ways_poly,,hospital,,,,,,,,,,,Jatshokha Hospital,,hospital,government,Dr. Sangay Dorji (CMO),89.8938870871913,27.48783574779,POLYGON
+"1155358461",ways_poly,,hospital,,,,,,,,,,,Tsimalakha Hospital,,hospital,government,Dr Namgay Rinchen(CMO),89.5398107486252,27.0870954055165,POLYGON
+"1155421170",ways_poly,,hospital,,,,,,,,,,,Gidakom Hospital,,hospital,,Dr. Chencho Dorji,89.5693547668796,27.4049297266573,POLYGON
+"1113547272",ways_poly,,,,,,,,,,,,,Tali ORC,,clinic,,Local,90.7545278,27.17335995,POLYGON
+"1113719454",ways_poly,,,,,,,,,,,,,Kamjong Sub-Post,,clinic,,"HA, Government",90.8283861668514,27.0494481789934,POLYGON
+"974463059",ways_poly,,,,,,,,,,,,,Duenmnag ORC,,clinic,,Local,90.84909475,27.0483541,POLYGON
+"394735720",ways_poly,,hospital,,,,,,,,,,,Gedu Hospital,,hospital,government,Dr Tej Nath Nepal(CMO),89.5295933302869,26.919002210842,POLYGON
+"971208847",ways_poly,,hospital,,,,,,,,,,,Dangchhu BHU,,hospital,government,Zangmo,90.1917426500156,27.6148505947283,POLYGON
+"1155411416",ways_poly,,hospital,,,,,,,,,,,Barshong BHU,,hospital,,,89.6010281570439,27.6929392983357,POLYGON
+"1155370207",ways_poly,,hospital,,,,,,,,,,,Samtengang BHU,,hospital,government,Zangmo (Dy.Chief District Health Office),89.9767408535964,27.5159720450473,POLYGON
+"969292554",ways_poly,,hospital,,,,,,,,,,,Ney BHU II,,hospital,,Ugyen Dorji(DHO,91.07342075,27.7840092,POLYGON
+"672519407",ways_poly,,hospital,,,,,,,,,,,Wangdichholing Hospital,,hospital,government,Dr. Chador Tenzin,90.7447941632456,27.5589137931801,POLYGON
+"975765450",ways_poly,,hospital,,,,,,,,,,,Goenshari BHU,,hospital,government,Namgay Dawa,89.7646499968398,27.7085904186122,POLYGON
+"1155861501",ways_poly,,hospital,,,,,,,,,,,Pungtenchhu BHU,,hospital,government,"Kinley (Sr. District Health Officer);Lobzang Tshering (District Health Officer",90.1444683996386,27.0730519831933,POLYGON
+"801593258",ways_poly,,clinic,,,,,,,,,,,City Healthcare and Pharmacy,,clinic,,,89.6392936234809,27.4635221438098,POLYGON
+"420220232",ways_poly,,hospital,,,,,,,,,,,Udzorong BHU,,hospital,,Gang Dorji (DHO),91.4531786806366,27.2572952856618,POLYGON
+"439866238",ways_poly,,hospital,,,,,,,,,,,Gasa BHU I,,hospital,,Tashi Norbu(DHO),89.7321511975644,27.9059372125741,POLYGON
+"1159993557",ways_poly,,hospital,,,,,,,,,,,Patpachhu BHU-II,,hospital,,Ugyen Dorji(DHO),91.1920045911685,27.5152123607381,POLYGON
+"1159984992",ways_poly,,hospital,,,,,,,,,,,Khagochen PHC,,hospital,government,Dorji Wangchuk and Tenzin,89.9330074478522,26.9725244278231,POLYGON
+"1113548639",ways_poly,,hospital,,,,,,,,,,,Bjoka BHU,,hospital,,,91.0506650817401,26.970668796717,POLYGON
+"1155276321",ways_poly,,hospital,,,,,,,,,,,Tsamang BHU II,,hospital,government,"Tshering Dorji;Deki Phuntsho",91.1866738856651,27.3144864605242,POLYGON
+"974463196",ways_poly,,hospital,,,,,,,,,,,Tshaidang BHU,,hospital,,,90.7787632762001,27.095485112252,POLYGON
+"979534515",ways_poly,,hospital,,,,,,,,,,,Phongmey BHU II,,hospital,,Gang Dorji (DHO),91.75035585,27.37452675,POLYGON
+"1155276687",ways_poly,,hospital,,,,,,,,,,,Sershong BHU II,,hospital,government,"Tshering Dorji;Deki Phuntsho",91.3539383294908,27.3719360754727,POLYGON
+"996594370",ways_poly,,hospital,,,,,,,,,,,Chagsakhar BHU II,,hospital,,Deki Phuntsho (Sr. District Health Officer),91.3403157708334,27.2742739414865,POLYGON
+"1155282778",ways_poly,,hospital,,,,,,,,,,,Chhangmi BHU II,,hospital,,Gang Dorji (DHO),91.6524130495634,27.345989233041,POLYGON
+"1155217103",ways_poly,,hospital,,,,,,,,,,,Rabti BHU,,hospital,government,Tshewang Sithar (Sr. DHO),91.5185197860804,27.4886193274459,POLYGON
+"1155816707",ways_poly,,hospital,,,,,,,,,,,Trashigang Hospital,,hospital,government,Bro Changlo (Clinical Nurse),91.5550252155654,27.333793884664,POLYGON
+"1157757784",ways_poly,,hospital,,,,,,,,,,,Gonpa Singma BHU,,hospital,,,91.4596196,27.0364195,POLYGON
+"967878983",ways_poly,,hospital,,,,,,,,,,,Thinleygang BHU,,hospital,government,Namgay Dawa,89.816640834092,27.5251563540669,POLYGON
+"942647022",ways_poly,,hospital,,,,,,,,,,,Dungzam BHU II,,hospital,government,Tshewang Sithar (DHO),91.4557072,27.6586992,POLYGON
+"1153949733",ways_poly,,hospital,,,,,,,,,,,Lunana BHU,,hospital,,Tashi Norbu(DHO),90.0923713351964,28.0343015926201,POLYGON
+"1120229199",ways_poly,,hospital,,,,,,,,,,,Tsangkha PHC,,hospital,government,Dorji Wangchuk and Tenzin,90.0366541512016,27.0439363598135,POLYGON
+"1155236729",ways_poly,,hospital,,,,,,,,,,,Sinchula BHU,,hospital,government,DHO,89.5949274041601,26.8006641550443,POLYGON
+"541766925",ways_poly,,hospital,,,,,,,,,,,Chamgang BHU,,hospital,,Kencho Wangdi (Sr. DHO),89.6967719547429,27.4111844133682,POLYGON
+"500580860",ways_poly,,hospital,,,,,,,,,,,Kazhi BHU,,hospital,government,Zangmo(Dy.Chief District Health Office),89.9985012279643,27.5430846266348,POLYGON
+"1155420028",ways_poly,,hospital,,,,,,,,,,,Soe BHU,,hospital,,Kencho Wangdi (Sr. DHO),89.33527015,27.7669465,POLYGON
+"975729812",ways_poly,,hospital,,,,,,,,,,,Damji BHU,,hospital,,,89.7274654434321,27.8100776698854,POLYGON
+"421275095",ways_poly,,hospital,,,,,,,,,,,Kheni BHU II,,hospital,government,Tshewang Sithar (DHO),91.6018213305351,27.4796226972907,POLYGON
+"966788768",ways_poly,,hospital,,,,,,,,,,,Kabisa BHU,,hospital,government,Namgay Dawa,89.7944126747439,27.6322952267191,POLYGON
+"1155812979",ways_poly,,hospital,,,,,,,,,,,Nobugang BHU,,hospital,government,Namgay Dawa,89.8446609242431,27.5663148702657,POLYGON
+"1155817400",ways_poly,,hospital,,,,,,,,,,,Samadingkha BHU,,hospital,government,Namgay Dawa,89.8657748825528,27.6373634394288,POLYGON
+"973543180",ways_poly,,hospital,,,,,,,,,,,Kengkhar BHU II,,hospital,government,"Tshering Dorji;Deki Phuntsho",91.317615998687,27.1057148297409,POLYGON
+"1113547274",ways_poly,,,,,,,,,,,,,Out Reach Clinic,,clinic,,Local,90.7657702323524,27.2115844483592,POLYGON
+"1155417700",ways_poly,,hospital,,,,,,,,,,,Genyenkha BHU,,hospital,,Kencho Wangdi (Sr. DHO),89.6083879655137,27.3047549593354,POLYGON
+"1155272680",ways_poly,,hospital,,,,,,,,,,,Muhung BHU II,,hospital,government,"Tshering Dorji;Deki Phuntsho",91.3770964003801,27.3625746625462,POLYGON
+"982193723",ways_poly,,hospital,,,,,,,,,,,Doongtoed BHU,,hospital,,Thinley Choden (DHO),89.1761238639791,27.0439375296305,POLYGON
+"965737402",ways_poly,,hospital,,,,,,,,,,,Ngetshena BHU,,hospital,,Dr. Tshewang Gyeltshen(CMO),89.1374629536336,27.0730412259807,POLYGON
+"1172066937",ways_poly,,hospital,,,,,,,,,,,Khatikha BHU I,,hospital,government,Dr. Bhawesh Rai (CMO),89.4206974097674,26.989998357291,POLYGON
+"665617730",ways_poly,,hospital,,,,,,,,,,,Samtse Hospital,,hospital,,Dr. Thinley Dorji,89.087089507775,26.8977367236963,POLYGON
+"979396682",ways_poly,,hospital,,,,,,,,,,,Wangphoog BHU II,,hospital,government,"Pema Tshewang;Dawa Gyeltshen",91.61069945,26.96436575,POLYGON
+"425635150",ways_poly,,hospital,,,,,,,,,,,Jigme Dorji Wangchuck National Referral Hospital,,hospital,,,89.638521712683,27.4633327157245,POLYGON
+"1155382784",ways_poly,,hospital,,,,,,,,,,,Menchulam BHU,,hospital,,Tshering Penjor (Sr. District Health Officer),90.3032250886688,26.8545425395394,POLYGON
+"1155237889",ways_poly,,hospital,,,,,,,,,,,Darla BHU,,hospital,government,"Gopal Hingmang;Karma Wangchuk",89.5609338701505,26.8614180763565,POLYGON
+"981343697",ways_poly,,hospital,,,,,,,,,,,Dorokha BHU,,hospital,,Dr.Nirmala Gurung,89.2105523989073,26.9995694589153,POLYGON
+"1155290250",ways_poly,,hospital,,,,,,,,,,,Doonglagang BHU,,hospital,,Kinley (Sr. District Health Officer),90.1792369833841,27.0161227137051,POLYGON
+"1155386821",ways_poly,,hospital,,,,,,,,,,,Gomtu Hospital,,hospital,,Dr.Gayleg Tenzin (CMO),89.1877392719773,26.8214496677724,POLYGON
+"911716114",ways_poly,,hospital,,,,,,,,,,,Ganglapong BHU II,,hospital,,"Tshering Dorji;Deki Phuntsho",91.2123633422462,27.4614689255,POLYGON
+"464881763",ways_poly,,hospital,,,,,,,,,,,Gortsum BHU,,hospital,,Ugyen Dorji (DHO),91.1244803372872,27.5531706139144,POLYGON
+"1159993951",ways_poly,,hospital,,,,,,,,,,,Zangkhar BHU-II,,hospital,,Ugyen Dorji (DHO),91.1533310464776,27.5037493314161,POLYGON
+"1113546076",ways_poly,,hospital,,,,,,,,,,,Khomshar BHU,,hospital,,Karchung,90.9439411364224,27.1366513864701,POLYGON
+"1112854045",ways_poly,,hospital,,,,,,,,,,,Panbang BHU I,,hospital,,Dr. Dago Dem (MOIC),90.9623643802252,26.8514254229232,POLYGON
+"1155367206",ways_poly,,hospital,,,,,,,,,,,Kamichhu BHU,,hospital,government,Zangmo (Dy.Chief District Health Office),90.0315459677241,27.272575934337,POLYGON
+"975348498",ways_poly,,hospital,,,,,,,,,,,Senggor BHU II,,hospital,government,"Tshering Dorji;Deki Phuntsho",91.0319865346372,27.3626830463395,POLYGON
+"640949367",ways_poly,,hospital,,,,,,,,,,,Maenjiwoong BHU II,,hospital,government,"Pema Tshewang;Dawa Gyeltshen",92.014090932477,26.9933284024626,POLYGON
+"1155375491",ways_poly,,hospital,,,,,,,,,,,Paro Hospital,,hospital,government,Dr. Ugyen Wangdi (CMO),89.4057515766572,27.4278140805041,POLYGON
+"1155828743",ways_poly,,hospital,,,,,,,,,,,Khaling BHU I,,hospital,government,Dr Ugyen Langten (Medical Doctor),91.5974365475027,27.2057208103748,POLYGON
+"1160016976",ways_poly,,hospital,,,,,,,,,,,Thrimchung BHU,,hospital,government,"Kinley Dorji (DHO);Tshering Dorji (ADHO)",91.2750367381884,27.0000737775341,POLYGON
+"1127395663",ways_poly,,hospital,,,,,,,,,,,Semjong BHU,,hospital,,"Kinley;Lobzang Tshering;Tashi Dawa",90.130486266292,27.0307295012397,POLYGON
+"1155696002",ways_poly,,hospital,,,,,,,,,,,Tshatshi BHU II,,hospital,,,91.4355666919143,27.1373728705453,POLYGON
+"974450256",ways_poly,,hospital,,,,,,,,,,,Buli Hospital,,hospital,government,Karchung,90.8189871,27.1650714,POLYGON
+"397162600",ways_poly,,hospital,,,,,,,,,,,Getana BHU,,hospital,government,"Gopal Hingmang;Karma Wangchuk",89.7407924782625,26.9260337837852,POLYGON
+"435700453",ways_poly,,hospital,,,,,,,,,,,Dechhencholing BHU I,,hospital,,Mrs. Lhamo (Clinical Officer),89.6462577160643,27.5331372990018,POLYGON
+"993620337",ways_poly,,hospital,,,,,,,,,,,Bemji BHU,,hospital,,Dorji Gyeltshen (DHO),90.4604155031342,27.5732956168466,POLYGON
+"990836640",ways_poly,,hospital,,,,,,,,,,,Jala BHU,,hospital,government,Zangmo(DHO),89.938681632523,27.3327671362471,POLYGON
+"1155367596",ways_poly,,hospital,,,,,,,,,,,Athang BHU,,hospital,government,Zangmo,90.1107113014639,27.2993651655895,POLYGON
+"975478078",ways_poly,,hospital,,,,,,,,,,,Kagtong BHU,,hospital,,Karchung,90.9828055681574,26.9411182265828,POLYGON
+"1119799113",ways_poly,,hospital,,,,,,,,,,,Lagyab PHC,,hospital,government,Dorji Wangchuk and Tenzin,90.0180216687353,27.0854592942255,POLYGON
+"967025148",ways_poly,,hospital,,,,,,,,,,,Jamkhar BHU IIa,,hospital,government,Tshewang Sithar (DHO),91.5154893660045,27.6629893681387,POLYGON
+"314024572",ways_poly,,hospital,,,,,,,,,,,错那县人民医院,,hospital,,,91.96417016183,27.9936602190537,POLYGON
+"969628080",ways_poly,,,,,,,,,,,,,Dangdung 10 bedded hospital,,hospital,,,90.5880089105666,27.3392879301548,POLYGON
+"970712206",ways_poly,,hospital,,,,,,,,,,,Dhur BHU,,hospital,,"Kinga Geltshen;Jigme Kelzang",90.726538,27.59290415,POLYGON
+"973616712",ways_poly,,hospital,,,,,,,,,,,Dungmaed BHU,,hospital,government,"Kinley Dorji (DHO);Tshering Dorji (ADHO)",91.3324311618222,26.9833482846166,POLYGON
+"1119811772",ways_poly,,hospital,,,,,,,,,,,Drujeygang PHC,,hospital,government,Dorji Wangchuk and Tenzin,90.0460621039212,26.9798257700809,POLYGON
+"747354124",ways_poly,,hospital,,,,,,,,,,,Tsirang Toed BHU,,hospital,government,Tashi Dawa,90.1114488,27.06008475,POLYGON
+"971177933",ways_poly,,hospital,,,,,,,,,,,Chhumey BHU,,hospital,government,"Jigme Kelzang;Kinga Geltshen",90.7099309,27.49371075,POLYGON
+"975543449",ways_poly,,hospital,,,,,,,,,,,Eastern Regional Referral Hospital,,hospital,government,Dr. Pelden Wangchuk,91.2386435459766,27.2785628599235,POLYGON
+"1159993791",ways_poly,,hospital,,,,,,,,,,,Tsaenkhar BHU II,,hospital,,Ugyen Dorji(DHO),91.2143949385734,27.4612599048271,POLYGON
+"911258004",ways_poly,,hospital,,,,,,,,,,,Jangbi BHU,,hospital,government,Dorji Gyeltshen (District Health Officer),90.5851751237036,27.2869422793421,POLYGON
+"974680667",ways_poly,,hospital,,,,,,,,,,,Zhemgang BHU I,,hospital,,Dr. Choeda Gyeltshen (MOIC),90.6525152321492,27.2151819827208,POLYGON
+"1113601671",ways_poly,,,,,,,,,,,,,Goling ORC,,clinic,,Local,90.7402231789264,27.1382756468294,POLYGON
+"1113541711",ways_poly,,,,,,,,,,,,,ORC Thrisa,,clinic,,Shingkhar BHU,90.9581729555135,27.2180563351294,POLYGON
+"910448266",ways_poly,,hospital,,,,,,,,,,,Korphoog BHU,,hospital,government,"Dorji Gyeltshen;Dorji Gyeltshen (DHO)",90.5289450343504,27.1792546011676,POLYGON
+"969628005",ways_poly,,hospital,,,,,,,,,,,Tongtophel BHU I,,hospital,government,Dolley Tshering (DHO),90.587382255365,27.3223358441326,POLYGON
+"1155227571",ways_poly,,hospital,,,,,,,,,,,Arikha BHU,,hospital,government,"Gopal Hingmang;Karma Wangchuk",89.5897415104246,26.8816881775777,POLYGON
+"974471657",ways_poly,,hospital,,,,,,,,,,,Gongphu BHU,,hospital,,Karchung,90.7973005249391,27.0346493776943,POLYGON
+"1051544534",ways_poly,,hospital,,,,,,,,,,,Nagor BHU II,,hospital,government,"Tshering Dorji;Deki Phuntsho",91.116564870272,27.0717433663612,POLYGON
+"1116160344",ways_poly,,hospital,,,,,,,,,,,Norbugang BHU,,hospital,,"Kinley Dorji (DHO);Tshering Dorji (ADHO)",91.1236744826963,26.8498249531221,POLYGON
+"1155355109",ways_poly,,hospital,,,,,,,,,,,Chhali BHU II,,hospital,,Deki Phuntsho (Sr. District Health Officer),91.2311864905539,27.3104234734748,POLYGON
+"907764769",ways_poly,,hospital,,,,,,,,,,,Metakha BHU,,hospital,government,DHO,89.4165425789073,27.0539832731212,POLYGON
+"397544106",ways_poly,,hospital,,,,,,,,,,,Akhochen PHC,,hospital,government,Dorji Wangchuk and Tenzin (DHO),89.9672032,26.99740745,POLYGON
+"799145290",ways_poly,,hospital,,,,,,,,,,,Lauri Primary Health Care(PHC),,hospital,government,"Pema Tshewang;Gyeltshen",91.9145661,27.12461125,POLYGON
+"1058474321",ways_poly,,hospital,,,,,,,,,,,Sombaykha BHU,,hospital,government,Samten (DHO),89.1053616250262,27.166532354894,POLYGON
+"1010340732",ways_poly,,hospital,,,,,,,,,,,Phibsoo BHU,,hospital,,,90.1101462,26.7526566,POLYGON
+"1155387474",ways_poly,,hospital,,,,,,,,,,,Taraythang BHU,,hospital,,Dawa Pelzang (DHO),90.5586462996636,26.8170022523491,POLYGON
+"462153727",ways_poly,,hospital,,,,,,,,,,,Ugyentse BHU,,hospital,,Thinley Choden (DHO),89.00797105,26.9491814,POLYGON
+"1107704492",ways_poly,,hospital,,,,,,,,,,,Yangnyer BHU,,hospital,government,Gang Dorji (DHO),91.5331301349627,27.3655578182893,POLYGON
+"590981555",ways_poly,,clinic,,,,,,,,,,,,,clinic,,,88.825452223224,27.1109075897154,POLYGON
+"493661344",ways_poly,,hospital,,,,,,,,,,,Kanglung BHU I,,hospital,government,Dr Tshering Dema,91.5144651415409,27.2817207145718,POLYGON
+"1155829846",ways_poly,,hospital,,,,,,,,,,,Bikhar BHU II,,hospital,government,Gang Dorji (DHO),91.6136447684544,27.3285235485344,POLYGON
+"982298698",ways_poly,,hospital,,,,,,,,,,,Yangthang BHU,,hospital,,Samten (DHO),89.2480906616595,27.4068825556164,POLYGON
+"977550006",ways_poly,,hospital,,,,,,,,,,,Chapchha BHU,,hospital,government,"Gopel Hingmang;Karma Wangchuk",89.54649795,27.1921721,POLYGON
+"1156124275",ways_poly,,hospital,,,,,,,,,,,Yoseltse BHU,,hospital,,Thinley Choden (DHO),88.9696490542351,26.9408521766124,POLYGON
+"1128379703",ways_poly,,hospital,,,,,,,,,,,Pemaling BHU,,hospital,,Thinley Choden (DHO),88.89784245,27.047471,POLYGON
+"1159922434",ways_poly,,hospital,,,,,,,,,,,Dewathang RBA Hospital,,hospital,government,Dr. Deepsika Kaflay,91.4671862017776,26.8613445976572,POLYGON
+"1133485273",ways_poly,,hospital,,,,,,,,,,,Lingmethang BHU II,,hospital,government,"Tshering Dorji;Deki Phuntsho",91.1746791532601,27.2595178936615,POLYGON
+"979774153",ways_poly,,hospital,,,,,,,,,,,Bidung BHU II,,hospital,government,Gang Dorji,91.6396169060317,27.3756304382735,POLYGON
+"1155857776",ways_poly,,hospital,,,,,,,,,,,Sakteng BHU II,,hospital,government,Gang Dorji (DHO),91.9201721540342,27.4033844667427,POLYGON
+"1115956651",ways_poly,,hospital,,,,,,,,,,,Chhimoong BHU II,,hospital,government,DHO,91.2912407829936,27.0343428513047,POLYGON
+"1155372907",ways_poly,,hospital,,,,,,,,,,,Radi BHU II,,hospital,government,Gang Dorji,91.6923426031409,27.3611076665462,POLYGON
+"1155235348",ways_poly,,hospital,,,,,,,,,,,Renchentse BHU,,hospital,,DHO,89.5996310356296,26.8964787445891,POLYGON
+"296738707",ways_poly,,hospital,,,,,,,,,,,Tongmijangsa BHU II,,hospital,government,Singye Dorji (DHO),91.5482182868375,27.4533073730427,POLYGON
+"1007328701",ways_poly,,hospital,,,,,,,,,,,Riserboo Hospital,,hospital,government,Dr Kinley Dorji,91.5498136042394,27.1210200826098,POLYGON
+"1009909600",ways_poly,,hospital,,,,,,,,,,,Thoongkhar BHU II,,hospital,,"Gang Dorji;Tandin Dorji",91.5717291288601,27.0814931636867,POLYGON
+"462021004",ways_poly,,hospital,,,,,,,,,,,Phuntsholing Hospital,,hospital,government,Dr. Thinley Pelzang,89.3860873063688,26.8675842794282,POLYGON
+"503713625",ways_poly,,hospital,,,,,,,,,,,Tendu BHU,,hospital,,Thinley Choden (DHO),88.87573195,27.1270754,POLYGON
+"1155375146",ways_poly,,hospital,,,,,,,,,,,Chokhorling BHU,,hospital,government,"Dawa Pelzang (DHO);Tshering Penjor(DHO)",90.4406866804729,26.9209013674748,POLYGON
+"1155393967",ways_poly,,hospital,,,,,,,,,,,Sangachhoeling BHU,,hospital,,Thinley Choden (DHO),88.94788532018,26.9825709755609,POLYGON
+"408601215",ways_poly,,hospital,,,,,,,,,,,College Infirmary,,hospital,,,89.3946560746209,26.8498884868303,POLYGON
+"394654123",ways_poly,,hospital,,,,,,,,,,,Bongo BHU,,hospital,government,,89.6245756295579,26.8686132888054,POLYGON
+"630336536",ways_poly,,hospital,,,,,,,,,,,Damphu Hospital,,hospital,,Dr. Tshering Penjore,90.1250517458401,27.0031557259483,POLYGON
+"1155372101",ways_poly,,hospital,,,,,,,,,,,Kangpar BHU II,,hospital,government,Gang Dorji,91.6973472194561,27.1230586353492,POLYGON
+"1155244217",ways_poly,,hospital,,,,,,,,,,,Trashiyangtse Hospital #SLSIBhutan,,hospital,,,91.4969794084865,27.6026579337059,POLYGON
+"1040773089",ways_poly,,hospital,,,,,,,,,,,Dechhenling BHU II,,hospital,government,DHO,91.2168144687243,26.9181127363233,POLYGON
+"1155231460",ways_poly,,hospital,,,,,,,,,,,Rangaytung BHU,,hospital,,DHO,89.4417298286658,26.858346672411,POLYGON
+"976300495",ways_poly,,hospital,,,,,,,,,,,Lingzhi BHU,,hospital,,Kencho Wangdi,89.4387401506832,27.8613250233428,POLYGON
+"1155245896",ways_poly,,hospital,,,,,,,,,,,Narang BHU II,,hospital,government,"Tshering Dorji;Deki Phuntsho",91.4594824782432,27.3325305909993,POLYGON
+"1059458030",ways_poly,,,,,,,,,,,,,Bebji sub-post,,clinic,,government,89.0779025062374,27.1403969138477,POLYGON
+"1121668119",ways_poly,,hospital,,,,,,,,,,,Lhamoizingkha Hospital,,hospital,government,Dr. Chimi Dorji,89.8540804664484,26.7229149959227,POLYGON
+"915322783",ways_poly,,hospital,,,,,,,,,,,Dangling BHU II,,hospital,,Ugyen Dorji(DHO),91.1636172187261,27.5847246564572,POLYGON
+"968308517",ways_poly,,hospital,,,,,,,,,,,Minjey BHU II,,hospital,,Ugyen Dorji(DHO),91.2385463612418,27.5987835561958,POLYGON
+"969585421",ways_poly,,hospital,,,,,,,,,,,Khoma BHU II,,hospital,,Ugyen Dorji (DHO),91.2223572342265,27.685031829383,POLYGON
+"969610662",ways_poly,,hospital,,,,,,,,,,,Ganglekhema BHU-II,,hospital,,Ugyen Dorji (DHO),91.1968133554392,27.7152454743205,POLYGON
+"1155381860",ways_poly,,hospital,,,,,,,,,,,Chhuzaggang BHU,,hospital,,,90.5322164,26.88414755,POLYGON
+"979545785",ways_poly,,hospital,,,,,,,,,,,Yabrang BHU,,hospital,government,Gang Dorji,91.7110767352139,27.393797179928,POLYGON
+"1155270084",ways_poly,,hospital,,,,,,,,,,,Martshala BHU II,,hospital,government,"Pema Tshewang;Dawa Gyeltshen",91.6839326723481,26.9429752064928,POLYGON
+"1155351615",ways_poly,,hospital,,,,,,,,,,,Baanjar BHU II,,hospital,,Deki Phuntsho (Sr. District Health Officer),91.1858013696986,27.3674150823768,POLYGON
+"1002679859",ways_poly,,hospital,,,,,,,,,,,Ganthog BHU,,hospital,,Thinley Choden (DHO),88.9151455711518,27.0024808455101,POLYGON
+"465712952",ways_poly,,hospital,,,,,,,,,,,Logchina BHU,,hospital,government,"Gopal Hingmang;Karma Wangchuk",89.3884957366262,26.9410752141783,POLYGON
+"1155375593",ways_poly,,hospital,,,,,,,,,,,Barshong BHU,,hospital,government,Gang Dorji,90.0821806210692,26.9301169345524,POLYGON
+"1091563851",ways_poly,,hospital,,,,,,,,,,,Eusa Ten Bedded Hospital,,hospital,government,Dr Dawa Gyeltshen (Medical Doctor),90.1736335344304,27.4448066464646,POLYGON
+"1155388708",ways_poly,,hospital,,,,,,,,,,,Gelegphu CRR Hospital,,hospital,government,Dr. Dorji Tshering(Medical Superintendent),90.4911120803261,26.8739737493123,POLYGON
+"1155374917",ways_poly,,hospital,,,,,,,,,,,Chaling BHU II,,hospital,government,Gang Dorji,91.6877979,27.33830365,POLYGON
+"993675952",ways_poly,,hospital,,,,,,,,,,,Ngatshang BHU II,,hospital,government,"Tshering Dorji;Deki Phuntsho",91.3377316756029,27.3135851788299,POLYGON
+"993675467",ways_poly,,hospital,,,,,,,,,,,Yadi BHU II,,hospital,government,"Tshering Dorji;Deki Phuntsho",91.3677275,27.29075995,POLYGON
+"1010204462",ways_poly,,hospital,,,,,,,,,,,Tshelingore ORC,,hospital,government,Village Health Worker,91.49332545,27.05222265,POLYGON
+"1160017741",ways_poly,,hospital,,,,,,,,,,,Yurung Primary Health Care Center,,hospital,government,"Kinley Dorji (DHO);Tshering Dorji (ADHO)",91.3473851483927,27.0188970087976,POLYGON
+"1155361633",ways_poly,,hospital,,,,,,,,,,,Balam BHU II,,hospital,,Deki Phuntsho (Sr. District Health Officer),91.3901720242964,27.3367752181193,POLYGON
+"1155240443",ways_poly,,hospital,,,,,,,,,,,Chhoekhorling BHU II,,hospital,,DHO,91.3491570684727,26.8387486231774,POLYGON
+"1160007565",ways_poly,,hospital,,,,,,,,,,,Thangrong BHU II,,hospital,government,"Tshering Dorji;Deki Phuntsho",91.3489388969596,27.1980788637878,POLYGON
+"296343458",ways_poly,,hospital,,,,,,,,,,,Dramedtse BHU II,,hospital,,Deki Phuntsho (Sr. District Health Officer),91.4407830368205,27.313761490268,POLYGON
+"972668140",ways_poly,,hospital,,,,,,,,,,,Tangmachu BHU-II,,hospital,,Ugyen Dorji(DHO),91.195015967401,27.5952383110889,POLYGON
+"974109977",ways_poly,,clinic,,,,,,,,,,,Flu Clinic,,clinic,,,91.4249610233604,27.0300327888538,POLYGON
+"974109978",ways_poly,,clinic,,,,,,,,,,,,,clinic,,,91.42497915,27.03014575,POLYGON
+"1116183301",ways_poly,,hospital,,,,,,,,,,,Pemagatshel Hospital,,hospital,government,Dr. Bhim Nath Subedy,91.4226871475666,27.0291288163258,POLYGON
+"1027045115",ways_poly,,hospital,,,,,,,,,,,Orong BHU II,,hospital,government,"Pema Tshewang, Dawa Gyeltshen",91.4952282333477,26.9317882500372,POLYGON
+"973343603",ways_poly,,hospital,,,,,,,,,,,Boompazor BHU II,,hospital,,Deki Phuntsho (Sr. District Health Officer),91.2685919332947,27.2291063530167,POLYGON
+"801340665",ways_poly,,hospital,,,,,,,,,,,Gyalpoizhing BHU I,,hospital,government,Dr. Adwitya Powdyel,91.1975895745251,27.2306400028839,POLYGON
+"435186557",ways_poly,,hospital,,,,,,,,,,,National Traditional Medicine Hospital,,hospital,,Kencho Wangdi (Sr. District Health Officer),89.629792503858,27.4797489148323,POLYGON
+"1160020103",ways_poly,,hospital,,,,,,,,,,,Merag BHU II,,hospital,,"Gang Dorji;Tandin Dorji",91.8503386884866,27.3006400250913,POLYGON
+"1155809792",ways_poly,,hospital,,,,,,,,,,,Ladrong BHU II,,hospital,,Ugyen Dorji (DHO),91.1155106857617,27.456017096155,POLYGON
+"969546895",ways_poly,,hospital,,,,,,,,,,,Lhuentse Hospital,,hospital,public,,91.1850860683708,27.6732974809391,POLYGON
+"1155240154",ways_poly,,hospital,,,,,,,,,,,Doongna BHU,,hospital,government,"Gopal Hingmang;Karma Wangchuk",89.3940606546365,27.0344796544314,POLYGON
+"1155380135",ways_poly,,hospital,,,,,,,,,,,Jigmeling BHU,,hospital,,Dawa Pelzang,90.3700918898976,26.9108759255771,POLYGON
+"1155842828",ways_poly,,hospital,,,,,,,,,,,Lumang BHU II,,hospital,government,Gang Dorji (DHO),91.4984599993091,27.1472579332137,POLYGON
+"1160008625",ways_poly,,hospital,,,,,,,,,,,Yangbari BHU II,,hospital,government,"Tshering Dorji;Deki Phuntsho",91.1887051900847,26.9748139786932,POLYGON
+"566081705",ways_poly,,hospital,,,,,,,,,,,Bjurugang PHC,,hospital,government,Dorji Wangchuk and Tenzin (DHO),89.8793866493286,26.9726882465735,POLYGON
+"1155809609",ways_poly,,hospital,,,,,,,,,,,Bjurugang PHC,,hospital,government,Dorji Wangchuk and Tenzin (DHO),89.87951749709,26.9728094744191,POLYGON
+"423571051",ways_poly,,hospital,,,,,,,,,,,Ramjar BHU II,,hospital,government,Tshewang Sithar (DHO),91.5764668387816,27.4193714196478,POLYGON
+"1111196179",ways_poly,,hospital,,,,,,,,,,,Gomdar BHU I,,hospital,government,Dr. Kezang Dorji,91.5518866773886,26.9941887291632,POLYGON
