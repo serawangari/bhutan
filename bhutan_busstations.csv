@@ -1,0 +1,16 @@
+osm_id,osm_type,public_transport,amenity,building,layer,railway,name,operator,longitude,latitude,geom_type
+"10316515563",nodes,station,bus_station,,,,Gelephu Bus Terminal,,90.4871103,26.8696241,POINT
+"10243732609",nodes,station,bus_station,,,,,,89.8802415,27.0749296,POINT
+"1894206587",nodes,station,bus_station,,,,,,89.3832316,26.8465008,POINT
+"1987579349",nodes,station,bus_station,,,,,,89.3845751,26.8646433,POINT
+"11665246469",nodes,,bus_station,,,,,,89.6430392,27.4682111,POINT
+"4376996665",nodes,station,bus_station,,,,Bus Station,,91.502547,26.7975799,POINT
+"5302057025",nodes,,bus_station,,,,Apsts bus stand,,91.8726057,27.5948593,POINT
+"9895276519",nodes,station,bus_station,,,,Thimphu Inter-city Bus Terminal,RSTA,89.6428569,27.4678706,POINT
+"9894412721",nodes,station,bus_station,,,,Ngabiphu Terminal,City Bus Service,89.6441473,27.4253247,POINT
+"9894552294",nodes,station,bus_station,,,,Dangrina Terminal,,89.6382885,27.5341449,POINT
+"9894376416",nodes,station,bus_station,,,,City Bus Service Office,,89.6421903,27.4653868,POINT
+"4776561047",nodes,station,bus_station,,,,City Bus Terminal,,89.6391871,27.472135,POINT
+"1204080637",ways_poly,,,train_station,,,,,88.7696728494593,26.7056550816259,POLYGON
+"313992938",ways_poly,station,bus_station,yes,,,,,91.9600167678613,27.997068687957,POLYGON
+"439443885",ways_poly,station,bus_station,,,,,,89.6393164220495,27.4763082862652,POLYGON
