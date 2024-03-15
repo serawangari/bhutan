@@ -1,0 +1,683 @@
+Country Name,Country ISO3,Year,Indicator Name,Indicator Code,Value
+#country+name,#country+code,#date+year,#indicator+name,#indicator+code,#indicator+value+num
+Bhutan,BTN,2022,"ICT service exports (BoP, current US$)",BX.GSR.CCIS.CD,1192686.06312541
+Bhutan,BTN,2021,"ICT service exports (BoP, current US$)",BX.GSR.CCIS.CD,1575349.68927402
+Bhutan,BTN,2020,"ICT service exports (BoP, current US$)",BX.GSR.CCIS.CD,1777274.18663755
+Bhutan,BTN,2019,"ICT service exports (BoP, current US$)",BX.GSR.CCIS.CD,2373909.20345089
+Bhutan,BTN,2018,"ICT service exports (BoP, current US$)",BX.GSR.CCIS.CD,1246455.25332297
+Bhutan,BTN,2017,"ICT service exports (BoP, current US$)",BX.GSR.CCIS.CD,411605.051518396
+Bhutan,BTN,2016,"ICT service exports (BoP, current US$)",BX.GSR.CCIS.CD,922352.78219117
+Bhutan,BTN,2015,"ICT service exports (BoP, current US$)",BX.GSR.CCIS.CD,396630.268203635
+Bhutan,BTN,2014,"ICT service exports (BoP, current US$)",BX.GSR.CCIS.CD,432215.089722803
+Bhutan,BTN,2013,"ICT service exports (BoP, current US$)",BX.GSR.CCIS.CD,583591.287005406
+Bhutan,BTN,2012,"ICT service exports (BoP, current US$)",BX.GSR.CCIS.CD,1205674.99936873
+Bhutan,BTN,2011,"ICT service exports (BoP, current US$)",BX.GSR.CCIS.CD,538287.991047251
+Bhutan,BTN,2010,"ICT service exports (BoP, current US$)",BX.GSR.CCIS.CD,634796.281376
+Bhutan,BTN,2009,"ICT service exports (BoP, current US$)",BX.GSR.CCIS.CD,867615.670058913
+Bhutan,BTN,2008,"ICT service exports (BoP, current US$)",BX.GSR.CCIS.CD,1111620.01782925
+Bhutan,BTN,2007,"ICT service exports (BoP, current US$)",BX.GSR.CCIS.CD,981072.188329079
+Bhutan,BTN,2006,"ICT service exports (BoP, current US$)",BX.GSR.CCIS.CD,1066158.84425699
+Bhutan,BTN,2022,"ICT service exports (% of service exports, BoP)",BX.GSR.CCIS.ZS,5.44539504981459
+Bhutan,BTN,2021,"ICT service exports (% of service exports, BoP)",BX.GSR.CCIS.ZS,7.08262008567436
+Bhutan,BTN,2020,"ICT service exports (% of service exports, BoP)",BX.GSR.CCIS.ZS,1.31904027011223
+Bhutan,BTN,2019,"ICT service exports (% of service exports, BoP)",BX.GSR.CCIS.ZS,1.41148193319648
+Bhutan,BTN,2018,"ICT service exports (% of service exports, BoP)",BX.GSR.CCIS.ZS,0.681612246951808
+Bhutan,BTN,2017,"ICT service exports (% of service exports, BoP)",BX.GSR.CCIS.ZS,0.254512086940028
+Bhutan,BTN,2016,"ICT service exports (% of service exports, BoP)",BX.GSR.CCIS.ZS,0.63263976075642
+Bhutan,BTN,2015,"ICT service exports (% of service exports, BoP)",BX.GSR.CCIS.ZS,0.316280239888485
+Bhutan,BTN,2014,"ICT service exports (% of service exports, BoP)",BX.GSR.CCIS.ZS,0.347244613556285
+Bhutan,BTN,2013,"ICT service exports (% of service exports, BoP)",BX.GSR.CCIS.ZS,0.473230031304744
+Bhutan,BTN,2012,"ICT service exports (% of service exports, BoP)",BX.GSR.CCIS.ZS,1.180194433163
+Bhutan,BTN,2011,"ICT service exports (% of service exports, BoP)",BX.GSR.CCIS.ZS,0.65736255451806
+Bhutan,BTN,2010,"ICT service exports (% of service exports, BoP)",BX.GSR.CCIS.ZS,0.922198481323636
+Bhutan,BTN,2009,"ICT service exports (% of service exports, BoP)",BX.GSR.CCIS.ZS,1.54060390469976
+Bhutan,BTN,2008,"ICT service exports (% of service exports, BoP)",BX.GSR.CCIS.ZS,2.02969546171132
+Bhutan,BTN,2007,"ICT service exports (% of service exports, BoP)",BX.GSR.CCIS.ZS,1.6299129177195
+Bhutan,BTN,2006,"ICT service exports (% of service exports, BoP)",BX.GSR.CCIS.ZS,2.06149923288026
+Bhutan,BTN,2020,"Annual freshwater withdrawals, agriculture (% of total freshwater withdrawal)",ER.H2O.FWAG.ZS,94.0828402367
+Bhutan,BTN,2019,"Annual freshwater withdrawals, agriculture (% of total freshwater withdrawal)",ER.H2O.FWAG.ZS,94.0828402367
+Bhutan,BTN,2018,"Annual freshwater withdrawals, agriculture (% of total freshwater withdrawal)",ER.H2O.FWAG.ZS,94.0828402367
+Bhutan,BTN,2017,"Annual freshwater withdrawals, agriculture (% of total freshwater withdrawal)",ER.H2O.FWAG.ZS,94.0828402367
+Bhutan,BTN,2016,"Annual freshwater withdrawals, agriculture (% of total freshwater withdrawal)",ER.H2O.FWAG.ZS,94.0828402367
+Bhutan,BTN,2015,"Annual freshwater withdrawals, agriculture (% of total freshwater withdrawal)",ER.H2O.FWAG.ZS,94.0828402367
+Bhutan,BTN,2014,"Annual freshwater withdrawals, agriculture (% of total freshwater withdrawal)",ER.H2O.FWAG.ZS,94.0828402367
+Bhutan,BTN,2013,"Annual freshwater withdrawals, agriculture (% of total freshwater withdrawal)",ER.H2O.FWAG.ZS,94.0828402367
+Bhutan,BTN,2012,"Annual freshwater withdrawals, agriculture (% of total freshwater withdrawal)",ER.H2O.FWAG.ZS,94.0828402367
+Bhutan,BTN,2011,"Annual freshwater withdrawals, agriculture (% of total freshwater withdrawal)",ER.H2O.FWAG.ZS,94.0828402367
+Bhutan,BTN,2010,"Annual freshwater withdrawals, agriculture (% of total freshwater withdrawal)",ER.H2O.FWAG.ZS,94.0828402367
+Bhutan,BTN,2009,"Annual freshwater withdrawals, agriculture (% of total freshwater withdrawal)",ER.H2O.FWAG.ZS,94.0828402367
+Bhutan,BTN,2008,"Annual freshwater withdrawals, agriculture (% of total freshwater withdrawal)",ER.H2O.FWAG.ZS,94.0828402367
+Bhutan,BTN,2020,"Annual freshwater withdrawals, domestic (% of total freshwater withdrawal)",ER.H2O.FWDM.ZS,5.0295857988
+Bhutan,BTN,2019,"Annual freshwater withdrawals, domestic (% of total freshwater withdrawal)",ER.H2O.FWDM.ZS,5.0295857988
+Bhutan,BTN,2018,"Annual freshwater withdrawals, domestic (% of total freshwater withdrawal)",ER.H2O.FWDM.ZS,5.0295857988
+Bhutan,BTN,2017,"Annual freshwater withdrawals, domestic (% of total freshwater withdrawal)",ER.H2O.FWDM.ZS,5.0295857988
+Bhutan,BTN,2016,"Annual freshwater withdrawals, domestic (% of total freshwater withdrawal)",ER.H2O.FWDM.ZS,5.0295857988
+Bhutan,BTN,2015,"Annual freshwater withdrawals, domestic (% of total freshwater withdrawal)",ER.H2O.FWDM.ZS,5.0295857988
+Bhutan,BTN,2014,"Annual freshwater withdrawals, domestic (% of total freshwater withdrawal)",ER.H2O.FWDM.ZS,5.0295857988
+Bhutan,BTN,2013,"Annual freshwater withdrawals, domestic (% of total freshwater withdrawal)",ER.H2O.FWDM.ZS,5.0295857988
+Bhutan,BTN,2012,"Annual freshwater withdrawals, domestic (% of total freshwater withdrawal)",ER.H2O.FWDM.ZS,5.0295857988
+Bhutan,BTN,2011,"Annual freshwater withdrawals, domestic (% of total freshwater withdrawal)",ER.H2O.FWDM.ZS,5.0295857988
+Bhutan,BTN,2010,"Annual freshwater withdrawals, domestic (% of total freshwater withdrawal)",ER.H2O.FWDM.ZS,5.0295857988
+Bhutan,BTN,2009,"Annual freshwater withdrawals, domestic (% of total freshwater withdrawal)",ER.H2O.FWDM.ZS,5.0295857988
+Bhutan,BTN,2008,"Annual freshwater withdrawals, domestic (% of total freshwater withdrawal)",ER.H2O.FWDM.ZS,5.0295857988
+Bhutan,BTN,2020,"Annual freshwater withdrawals, industry (% of total freshwater withdrawal)",ER.H2O.FWIN.ZS,0.8875739645
+Bhutan,BTN,2019,"Annual freshwater withdrawals, industry (% of total freshwater withdrawal)",ER.H2O.FWIN.ZS,0.8875739645
+Bhutan,BTN,2018,"Annual freshwater withdrawals, industry (% of total freshwater withdrawal)",ER.H2O.FWIN.ZS,0.8875739645
+Bhutan,BTN,2017,"Annual freshwater withdrawals, industry (% of total freshwater withdrawal)",ER.H2O.FWIN.ZS,0.8875739645
+Bhutan,BTN,2016,"Annual freshwater withdrawals, industry (% of total freshwater withdrawal)",ER.H2O.FWIN.ZS,0.8875739645
+Bhutan,BTN,2015,"Annual freshwater withdrawals, industry (% of total freshwater withdrawal)",ER.H2O.FWIN.ZS,0.8875739645
+Bhutan,BTN,2014,"Annual freshwater withdrawals, industry (% of total freshwater withdrawal)",ER.H2O.FWIN.ZS,0.8875739645
+Bhutan,BTN,2013,"Annual freshwater withdrawals, industry (% of total freshwater withdrawal)",ER.H2O.FWIN.ZS,0.8875739645
+Bhutan,BTN,2012,"Annual freshwater withdrawals, industry (% of total freshwater withdrawal)",ER.H2O.FWIN.ZS,0.8875739645
+Bhutan,BTN,2011,"Annual freshwater withdrawals, industry (% of total freshwater withdrawal)",ER.H2O.FWIN.ZS,0.8875739645
+Bhutan,BTN,2010,"Annual freshwater withdrawals, industry (% of total freshwater withdrawal)",ER.H2O.FWIN.ZS,0.8875739645
+Bhutan,BTN,2009,"Annual freshwater withdrawals, industry (% of total freshwater withdrawal)",ER.H2O.FWIN.ZS,0.8875739645
+Bhutan,BTN,2008,"Annual freshwater withdrawals, industry (% of total freshwater withdrawal)",ER.H2O.FWIN.ZS,0.8875739645
+Bhutan,BTN,2020,"Annual freshwater withdrawals, total (billion cubic meters)",ER.H2O.FWTL.K3,0.3379
+Bhutan,BTN,2019,"Annual freshwater withdrawals, total (billion cubic meters)",ER.H2O.FWTL.K3,0.3379
+Bhutan,BTN,2018,"Annual freshwater withdrawals, total (billion cubic meters)",ER.H2O.FWTL.K3,0.3379
+Bhutan,BTN,2017,"Annual freshwater withdrawals, total (billion cubic meters)",ER.H2O.FWTL.K3,0.3379
+Bhutan,BTN,2016,"Annual freshwater withdrawals, total (billion cubic meters)",ER.H2O.FWTL.K3,0.3379
+Bhutan,BTN,2015,"Annual freshwater withdrawals, total (billion cubic meters)",ER.H2O.FWTL.K3,0.3379
+Bhutan,BTN,2014,"Annual freshwater withdrawals, total (billion cubic meters)",ER.H2O.FWTL.K3,0.3379
+Bhutan,BTN,2013,"Annual freshwater withdrawals, total (billion cubic meters)",ER.H2O.FWTL.K3,0.3379
+Bhutan,BTN,2012,"Annual freshwater withdrawals, total (billion cubic meters)",ER.H2O.FWTL.K3,0.3379
+Bhutan,BTN,2011,"Annual freshwater withdrawals, total (billion cubic meters)",ER.H2O.FWTL.K3,0.3379
+Bhutan,BTN,2010,"Annual freshwater withdrawals, total (billion cubic meters)",ER.H2O.FWTL.K3,0.3379
+Bhutan,BTN,2009,"Annual freshwater withdrawals, total (billion cubic meters)",ER.H2O.FWTL.K3,0.3379
+Bhutan,BTN,2008,"Annual freshwater withdrawals, total (billion cubic meters)",ER.H2O.FWTL.K3,0.3379
+Bhutan,BTN,2020,"Annual freshwater withdrawals, total (% of internal resources)",ER.H2O.FWTL.ZS,0.433205128205128
+Bhutan,BTN,2019,"Annual freshwater withdrawals, total (% of internal resources)",ER.H2O.FWTL.ZS,0.433205128205128
+Bhutan,BTN,2018,"Annual freshwater withdrawals, total (% of internal resources)",ER.H2O.FWTL.ZS,0.433205128205128
+Bhutan,BTN,2017,"Annual freshwater withdrawals, total (% of internal resources)",ER.H2O.FWTL.ZS,0.433205128205128
+Bhutan,BTN,2016,"Annual freshwater withdrawals, total (% of internal resources)",ER.H2O.FWTL.ZS,0.433205128205128
+Bhutan,BTN,2015,"Annual freshwater withdrawals, total (% of internal resources)",ER.H2O.FWTL.ZS,0.433205128205128
+Bhutan,BTN,2014,"Annual freshwater withdrawals, total (% of internal resources)",ER.H2O.FWTL.ZS,0.433205128205128
+Bhutan,BTN,2013,"Annual freshwater withdrawals, total (% of internal resources)",ER.H2O.FWTL.ZS,0.433205128205128
+Bhutan,BTN,2012,"Annual freshwater withdrawals, total (% of internal resources)",ER.H2O.FWTL.ZS,0.433205128205128
+Bhutan,BTN,2011,"Annual freshwater withdrawals, total (% of internal resources)",ER.H2O.FWTL.ZS,0.433205128205128
+Bhutan,BTN,2010,"Annual freshwater withdrawals, total (% of internal resources)",ER.H2O.FWTL.ZS,0.433205128205128
+Bhutan,BTN,2009,"Annual freshwater withdrawals, total (% of internal resources)",ER.H2O.FWTL.ZS,0.433205128205128
+Bhutan,BTN,2008,"Annual freshwater withdrawals, total (% of internal resources)",ER.H2O.FWTL.ZS,0.433205128205128
+Bhutan,BTN,2020,"Renewable internal freshwater resources, total (billion cubic meters)",ER.H2O.INTR.K3,78
+Bhutan,BTN,2019,"Renewable internal freshwater resources, total (billion cubic meters)",ER.H2O.INTR.K3,78
+Bhutan,BTN,2018,"Renewable internal freshwater resources, total (billion cubic meters)",ER.H2O.INTR.K3,78
+Bhutan,BTN,2017,"Renewable internal freshwater resources, total (billion cubic meters)",ER.H2O.INTR.K3,78
+Bhutan,BTN,2016,"Renewable internal freshwater resources, total (billion cubic meters)",ER.H2O.INTR.K3,78
+Bhutan,BTN,2015,"Renewable internal freshwater resources, total (billion cubic meters)",ER.H2O.INTR.K3,78
+Bhutan,BTN,2014,"Renewable internal freshwater resources, total (billion cubic meters)",ER.H2O.INTR.K3,78
+Bhutan,BTN,2013,"Renewable internal freshwater resources, total (billion cubic meters)",ER.H2O.INTR.K3,78
+Bhutan,BTN,2012,"Renewable internal freshwater resources, total (billion cubic meters)",ER.H2O.INTR.K3,78
+Bhutan,BTN,2011,"Renewable internal freshwater resources, total (billion cubic meters)",ER.H2O.INTR.K3,78
+Bhutan,BTN,2010,"Renewable internal freshwater resources, total (billion cubic meters)",ER.H2O.INTR.K3,78
+Bhutan,BTN,2009,"Renewable internal freshwater resources, total (billion cubic meters)",ER.H2O.INTR.K3,78
+Bhutan,BTN,2008,"Renewable internal freshwater resources, total (billion cubic meters)",ER.H2O.INTR.K3,78
+Bhutan,BTN,2007,"Renewable internal freshwater resources, total (billion cubic meters)",ER.H2O.INTR.K3,78
+Bhutan,BTN,2006,"Renewable internal freshwater resources, total (billion cubic meters)",ER.H2O.INTR.K3,78
+Bhutan,BTN,2005,"Renewable internal freshwater resources, total (billion cubic meters)",ER.H2O.INTR.K3,78
+Bhutan,BTN,2004,"Renewable internal freshwater resources, total (billion cubic meters)",ER.H2O.INTR.K3,78
+Bhutan,BTN,2003,"Renewable internal freshwater resources, total (billion cubic meters)",ER.H2O.INTR.K3,81
+Bhutan,BTN,2002,"Renewable internal freshwater resources, total (billion cubic meters)",ER.H2O.INTR.K3,81
+Bhutan,BTN,2001,"Renewable internal freshwater resources, total (billion cubic meters)",ER.H2O.INTR.K3,81
+Bhutan,BTN,2000,"Renewable internal freshwater resources, total (billion cubic meters)",ER.H2O.INTR.K3,81
+Bhutan,BTN,1999,"Renewable internal freshwater resources, total (billion cubic meters)",ER.H2O.INTR.K3,81
+Bhutan,BTN,1998,"Renewable internal freshwater resources, total (billion cubic meters)",ER.H2O.INTR.K3,81
+Bhutan,BTN,1997,"Renewable internal freshwater resources, total (billion cubic meters)",ER.H2O.INTR.K3,81
+Bhutan,BTN,1996,"Renewable internal freshwater resources, total (billion cubic meters)",ER.H2O.INTR.K3,81
+Bhutan,BTN,1995,"Renewable internal freshwater resources, total (billion cubic meters)",ER.H2O.INTR.K3,81
+Bhutan,BTN,1994,"Renewable internal freshwater resources, total (billion cubic meters)",ER.H2O.INTR.K3,81
+Bhutan,BTN,1993,"Renewable internal freshwater resources, total (billion cubic meters)",ER.H2O.INTR.K3,95
+Bhutan,BTN,1992,"Renewable internal freshwater resources, total (billion cubic meters)",ER.H2O.INTR.K3,95
+Bhutan,BTN,1991,"Renewable internal freshwater resources, total (billion cubic meters)",ER.H2O.INTR.K3,95
+Bhutan,BTN,1990,"Renewable internal freshwater resources, total (billion cubic meters)",ER.H2O.INTR.K3,95
+Bhutan,BTN,1989,"Renewable internal freshwater resources, total (billion cubic meters)",ER.H2O.INTR.K3,95
+Bhutan,BTN,1988,"Renewable internal freshwater resources, total (billion cubic meters)",ER.H2O.INTR.K3,95
+Bhutan,BTN,1987,"Renewable internal freshwater resources, total (billion cubic meters)",ER.H2O.INTR.K3,95
+Bhutan,BTN,1986,"Renewable internal freshwater resources, total (billion cubic meters)",ER.H2O.INTR.K3,95
+Bhutan,BTN,1985,"Renewable internal freshwater resources, total (billion cubic meters)",ER.H2O.INTR.K3,95
+Bhutan,BTN,1984,"Renewable internal freshwater resources, total (billion cubic meters)",ER.H2O.INTR.K3,95
+Bhutan,BTN,1983,"Renewable internal freshwater resources, total (billion cubic meters)",ER.H2O.INTR.K3,95
+Bhutan,BTN,1982,"Renewable internal freshwater resources, total (billion cubic meters)",ER.H2O.INTR.K3,95
+Bhutan,BTN,1981,"Renewable internal freshwater resources, total (billion cubic meters)",ER.H2O.INTR.K3,95
+Bhutan,BTN,1980,"Renewable internal freshwater resources, total (billion cubic meters)",ER.H2O.INTR.K3,95
+Bhutan,BTN,1979,"Renewable internal freshwater resources, total (billion cubic meters)",ER.H2O.INTR.K3,95
+Bhutan,BTN,1978,"Renewable internal freshwater resources, total (billion cubic meters)",ER.H2O.INTR.K3,95
+Bhutan,BTN,1977,"Renewable internal freshwater resources, total (billion cubic meters)",ER.H2O.INTR.K3,95
+Bhutan,BTN,1976,"Renewable internal freshwater resources, total (billion cubic meters)",ER.H2O.INTR.K3,95
+Bhutan,BTN,1975,"Renewable internal freshwater resources, total (billion cubic meters)",ER.H2O.INTR.K3,95
+Bhutan,BTN,1974,"Renewable internal freshwater resources, total (billion cubic meters)",ER.H2O.INTR.K3,95
+Bhutan,BTN,1973,"Renewable internal freshwater resources, total (billion cubic meters)",ER.H2O.INTR.K3,95
+Bhutan,BTN,1972,"Renewable internal freshwater resources, total (billion cubic meters)",ER.H2O.INTR.K3,95
+Bhutan,BTN,1971,"Renewable internal freshwater resources, total (billion cubic meters)",ER.H2O.INTR.K3,95
+Bhutan,BTN,1970,"Renewable internal freshwater resources, total (billion cubic meters)",ER.H2O.INTR.K3,95
+Bhutan,BTN,1969,"Renewable internal freshwater resources, total (billion cubic meters)",ER.H2O.INTR.K3,95
+Bhutan,BTN,1968,"Renewable internal freshwater resources, total (billion cubic meters)",ER.H2O.INTR.K3,95
+Bhutan,BTN,1967,"Renewable internal freshwater resources, total (billion cubic meters)",ER.H2O.INTR.K3,95
+Bhutan,BTN,1966,"Renewable internal freshwater resources, total (billion cubic meters)",ER.H2O.INTR.K3,95
+Bhutan,BTN,1965,"Renewable internal freshwater resources, total (billion cubic meters)",ER.H2O.INTR.K3,95
+Bhutan,BTN,1964,"Renewable internal freshwater resources, total (billion cubic meters)",ER.H2O.INTR.K3,95
+Bhutan,BTN,1963,"Renewable internal freshwater resources, total (billion cubic meters)",ER.H2O.INTR.K3,95
+Bhutan,BTN,1962,"Renewable internal freshwater resources, total (billion cubic meters)",ER.H2O.INTR.K3,95
+Bhutan,BTN,1961,"Renewable internal freshwater resources, total (billion cubic meters)",ER.H2O.INTR.K3,95
+Bhutan,BTN,2020,Renewable internal freshwater resources per capita (cubic meters),ER.H2O.INTR.PC,100970.089552702
+Bhutan,BTN,2019,Renewable internal freshwater resources per capita (cubic meters),ER.H2O.INTR.PC,101634.093808269
+Bhutan,BTN,2018,Renewable internal freshwater resources per capita (cubic meters),ER.H2O.INTR.PC,102349.310323109
+Bhutan,BTN,2017,Renewable internal freshwater resources per capita (cubic meters),ER.H2O.INTR.PC,103158.092421716
+Bhutan,BTN,2016,Renewable internal freshwater resources per capita (cubic meters),ER.H2O.INTR.PC,104033.151897738
+Bhutan,BTN,2015,Renewable internal freshwater resources per capita (cubic meters),ER.H2O.INTR.PC,104941.111891442
+Bhutan,BTN,2014,Renewable internal freshwater resources per capita (cubic meters),ER.H2O.INTR.PC,105926.88057559
+Bhutan,BTN,2013,Renewable internal freshwater resources per capita (cubic meters),ER.H2O.INTR.PC,107012.178809119
+Bhutan,BTN,2012,Renewable internal freshwater resources per capita (cubic meters),ER.H2O.INTR.PC,108161.326778942
+Bhutan,BTN,2011,Renewable internal freshwater resources per capita (cubic meters),ER.H2O.INTR.PC,109346.152066853
+Bhutan,BTN,2010,Renewable internal freshwater resources per capita (cubic meters),ER.H2O.INTR.PC,110557.379279846
+Bhutan,BTN,2009,Renewable internal freshwater resources per capita (cubic meters),ER.H2O.INTR.PC,111799.426096279
+Bhutan,BTN,2008,Renewable internal freshwater resources per capita (cubic meters),ER.H2O.INTR.PC,113086.582277013
+Bhutan,BTN,2007,Renewable internal freshwater resources per capita (cubic meters),ER.H2O.INTR.PC,114434.269249164
+Bhutan,BTN,2006,Renewable internal freshwater resources per capita (cubic meters),ER.H2O.INTR.PC,115854.201942786
+Bhutan,BTN,2005,Renewable internal freshwater resources per capita (cubic meters),ER.H2O.INTR.PC,117589.771498953
+Bhutan,BTN,2004,Renewable internal freshwater resources per capita (cubic meters),ER.H2O.INTR.PC,120001.661561468
+Bhutan,BTN,2003,Renewable internal freshwater resources per capita (cubic meters),ER.H2O.INTR.PC,127634.02754689
+Bhutan,BTN,2002,Renewable internal freshwater resources per capita (cubic meters),ER.H2O.INTR.PC,130846.073325493
+Bhutan,BTN,2001,Renewable internal freshwater resources per capita (cubic meters),ER.H2O.INTR.PC,134276.251007072
+Bhutan,BTN,2000,Renewable internal freshwater resources per capita (cubic meters),ER.H2O.INTR.PC,137941.134897915
+Bhutan,BTN,1999,Renewable internal freshwater resources per capita (cubic meters),ER.H2O.INTR.PC,141858.876687858
+Bhutan,BTN,1998,Renewable internal freshwater resources per capita (cubic meters),ER.H2O.INTR.PC,145384.578106518
+Bhutan,BTN,1997,Renewable internal freshwater resources per capita (cubic meters),ER.H2O.INTR.PC,148116.994139321
+Bhutan,BTN,1996,Renewable internal freshwater resources per capita (cubic meters),ER.H2O.INTR.PC,150699.356643981
+Bhutan,BTN,1995,Renewable internal freshwater resources per capita (cubic meters),ER.H2O.INTR.PC,153544.023535835
+Bhutan,BTN,1994,Renewable internal freshwater resources per capita (cubic meters),ER.H2O.INTR.PC,155392.702298277
+Bhutan,BTN,1993,Renewable internal freshwater resources per capita (cubic meters),ER.H2O.INTR.PC,182398.365710643
+Bhutan,BTN,1992,Renewable internal freshwater resources per capita (cubic meters),ER.H2O.INTR.PC,174010.52122562
+Bhutan,BTN,1991,Renewable internal freshwater resources per capita (cubic meters),ER.H2O.INTR.PC,167338.958270948
+Bhutan,BTN,1990,Renewable internal freshwater resources per capita (cubic meters),ER.H2O.INTR.PC,170116.144559328
+Bhutan,BTN,1989,Renewable internal freshwater resources per capita (cubic meters),ER.H2O.INTR.PC,174565.286498386
+Bhutan,BTN,1988,Renewable internal freshwater resources per capita (cubic meters),ER.H2O.INTR.PC,179566.809249014
+Bhutan,BTN,1987,Renewable internal freshwater resources per capita (cubic meters),ER.H2O.INTR.PC,184815.554077031
+Bhutan,BTN,1986,Renewable internal freshwater resources per capita (cubic meters),ER.H2O.INTR.PC,190323.168740521
+Bhutan,BTN,1985,Renewable internal freshwater resources per capita (cubic meters),ER.H2O.INTR.PC,196067.100353334
+Bhutan,BTN,1984,Renewable internal freshwater resources per capita (cubic meters),ER.H2O.INTR.PC,202056.724766837
+Bhutan,BTN,1983,Renewable internal freshwater resources per capita (cubic meters),ER.H2O.INTR.PC,208318.257669949
+Bhutan,BTN,1982,Renewable internal freshwater resources per capita (cubic meters),ER.H2O.INTR.PC,214834.430496539
+Bhutan,BTN,1981,Renewable internal freshwater resources per capita (cubic meters),ER.H2O.INTR.PC,221630.688618214
+Bhutan,BTN,1980,Renewable internal freshwater resources per capita (cubic meters),ER.H2O.INTR.PC,228773.988156732
+Bhutan,BTN,1979,Renewable internal freshwater resources per capita (cubic meters),ER.H2O.INTR.PC,236281.378788896
+Bhutan,BTN,1978,Renewable internal freshwater resources per capita (cubic meters),ER.H2O.INTR.PC,244170.744746474
+Bhutan,BTN,1977,Renewable internal freshwater resources per capita (cubic meters),ER.H2O.INTR.PC,252399.790641016
+Bhutan,BTN,1976,Renewable internal freshwater resources per capita (cubic meters),ER.H2O.INTR.PC,260903.715543545
+Bhutan,BTN,1975,Renewable internal freshwater resources per capita (cubic meters),ER.H2O.INTR.PC,269680.272746112
+Bhutan,BTN,1974,Renewable internal freshwater resources per capita (cubic meters),ER.H2O.INTR.PC,278721.519061618
+Bhutan,BTN,1973,Renewable internal freshwater resources per capita (cubic meters),ER.H2O.INTR.PC,288053.365676167
+Bhutan,BTN,1972,Renewable internal freshwater resources per capita (cubic meters),ER.H2O.INTR.PC,297686.194881051
+Bhutan,BTN,1971,Renewable internal freshwater resources per capita (cubic meters),ER.H2O.INTR.PC,307605.630154418
+Bhutan,BTN,1970,Renewable internal freshwater resources per capita (cubic meters),ER.H2O.INTR.PC,317838.431015678
+Bhutan,BTN,1969,Renewable internal freshwater resources per capita (cubic meters),ER.H2O.INTR.PC,328383.385874675
+Bhutan,BTN,1968,Renewable internal freshwater resources per capita (cubic meters),ER.H2O.INTR.PC,339162.162355142
+Bhutan,BTN,1967,Renewable internal freshwater resources per capita (cubic meters),ER.H2O.INTR.PC,350115.538127582
+Bhutan,BTN,1966,Renewable internal freshwater resources per capita (cubic meters),ER.H2O.INTR.PC,361249.69578973
+Bhutan,BTN,1965,Renewable internal freshwater resources per capita (cubic meters),ER.H2O.INTR.PC,372534.410415278
+Bhutan,BTN,1964,Renewable internal freshwater resources per capita (cubic meters),ER.H2O.INTR.PC,383925.251774139
+Bhutan,BTN,1963,Renewable internal freshwater resources per capita (cubic meters),ER.H2O.INTR.PC,395391.812476068
+Bhutan,BTN,1962,Renewable internal freshwater resources per capita (cubic meters),ER.H2O.INTR.PC,406996.919675945
+Bhutan,BTN,1961,Renewable internal freshwater resources per capita (cubic meters),ER.H2O.INTR.PC,418371.346407071
+Bhutan,BTN,2009,Investment in energy with private participation (current US$),IE.PPI.ENGY.CD,201000000
+Bhutan,BTN,2008,Investment in energy with private participation (current US$),IE.PPI.ENGY.CD,201500000
+Bhutan,BTN,2006,Investment in ICT with private participation (current US$),IE.PPI.ICTI.CD,17500000
+Bhutan,BTN,2009,Public private partnerships investment in energy (current US$),IE.PPN.ENGY.CD,201000000
+Bhutan,BTN,2008,Public private partnerships investment in energy (current US$),IE.PPN.ENGY.CD,201500000
+Bhutan,BTN,2006,Public private partnerships investment in ICT (current US$),IE.PPN.ICTI.CD,17500000
+Bhutan,BTN,2019,"Industrial design applications, nonresident, by count",IP.IDS.NRCT,8
+Bhutan,BTN,2017,"Industrial design applications, nonresident, by count",IP.IDS.NRCT,4
+Bhutan,BTN,2016,"Industrial design applications, nonresident, by count",IP.IDS.NRCT,1
+Bhutan,BTN,2015,"Industrial design applications, nonresident, by count",IP.IDS.NRCT,12
+Bhutan,BTN,2013,"Industrial design applications, nonresident, by count",IP.IDS.NRCT,2
+Bhutan,BTN,2012,"Industrial design applications, nonresident, by count",IP.IDS.NRCT,2
+Bhutan,BTN,2011,"Industrial design applications, nonresident, by count",IP.IDS.NRCT,2
+Bhutan,BTN,2021,"Industrial design applications, resident, by count",IP.IDS.RSCT,3
+Bhutan,BTN,2020,"Industrial design applications, resident, by count",IP.IDS.RSCT,9
+Bhutan,BTN,2019,"Industrial design applications, resident, by count",IP.IDS.RSCT,4
+Bhutan,BTN,2015,"Industrial design applications, resident, by count",IP.IDS.RSCT,1
+Bhutan,BTN,2021,"Trademark applications, nonresident, by count",IP.TMK.NRCT,2045
+Bhutan,BTN,2020,"Trademark applications, nonresident, by count",IP.TMK.NRCT,2121
+Bhutan,BTN,2019,"Trademark applications, nonresident, by count",IP.TMK.NRCT,4380
+Bhutan,BTN,2018,"Trademark applications, nonresident, by count",IP.TMK.NRCT,4290
+Bhutan,BTN,2017,"Trademark applications, nonresident, by count",IP.TMK.NRCT,3802
+Bhutan,BTN,2016,"Trademark applications, nonresident, by count",IP.TMK.NRCT,2075
+Bhutan,BTN,2015,"Trademark applications, nonresident, by count",IP.TMK.NRCT,1980
+Bhutan,BTN,2013,"Trademark applications, nonresident, by count",IP.TMK.NRCT,2032
+Bhutan,BTN,2012,"Trademark applications, nonresident, by count",IP.TMK.NRCT,1894
+Bhutan,BTN,2011,"Trademark applications, nonresident, by count",IP.TMK.NRCT,1825
+Bhutan,BTN,2021,"Trademark applications, resident, by count",IP.TMK.RSCT,155
+Bhutan,BTN,2020,"Trademark applications, resident, by count",IP.TMK.RSCT,255
+Bhutan,BTN,2019,"Trademark applications, resident, by count",IP.TMK.RSCT,130
+Bhutan,BTN,2018,"Trademark applications, resident, by count",IP.TMK.RSCT,51
+Bhutan,BTN,2017,"Trademark applications, resident, by count",IP.TMK.RSCT,16
+Bhutan,BTN,2016,"Trademark applications, resident, by count",IP.TMK.RSCT,26
+Bhutan,BTN,2015,"Trademark applications, resident, by count",IP.TMK.RSCT,2
+Bhutan,BTN,2013,"Trademark applications, resident, by count",IP.TMK.RSCT,16
+Bhutan,BTN,2012,"Trademark applications, resident, by count",IP.TMK.RSCT,35
+Bhutan,BTN,2011,"Trademark applications, resident, by count",IP.TMK.RSCT,21
+Bhutan,BTN,2021,"Air transport, registered carrier departures worldwide",IS.AIR.DPRT,696
+Bhutan,BTN,2020,"Air transport, registered carrier departures worldwide",IS.AIR.DPRT,1311
+Bhutan,BTN,2019,"Air transport, registered carrier departures worldwide",IS.AIR.DPRT,5067
+Bhutan,BTN,2018,"Air transport, registered carrier departures worldwide",IS.AIR.DPRT,5187
+Bhutan,BTN,2017,"Air transport, registered carrier departures worldwide",IS.AIR.DPRT,4215
+Bhutan,BTN,2016,"Air transport, registered carrier departures worldwide",IS.AIR.DPRT,6065
+Bhutan,BTN,2015,"Air transport, registered carrier departures worldwide",IS.AIR.DPRT,4640
+Bhutan,BTN,2014,"Air transport, registered carrier departures worldwide",IS.AIR.DPRT,8772
+Bhutan,BTN,2013,"Air transport, registered carrier departures worldwide",IS.AIR.DPRT,5820
+Bhutan,BTN,2012,"Air transport, registered carrier departures worldwide",IS.AIR.DPRT,3553
+Bhutan,BTN,2011,"Air transport, registered carrier departures worldwide",IS.AIR.DPRT,4146.03177501826
+Bhutan,BTN,2010,"Air transport, registered carrier departures worldwide",IS.AIR.DPRT,3053.39992695398
+Bhutan,BTN,2009,"Air transport, registered carrier departures worldwide",IS.AIR.DPRT,2706
+Bhutan,BTN,2008,"Air transport, registered carrier departures worldwide",IS.AIR.DPRT,2772
+Bhutan,BTN,2007,"Air transport, registered carrier departures worldwide",IS.AIR.DPRT,2720
+Bhutan,BTN,2006,"Air transport, registered carrier departures worldwide",IS.AIR.DPRT,2566
+Bhutan,BTN,2005,"Air transport, registered carrier departures worldwide",IS.AIR.DPRT,2467
+Bhutan,BTN,2004,"Air transport, registered carrier departures worldwide",IS.AIR.DPRT,2306
+Bhutan,BTN,2003,"Air transport, registered carrier departures worldwide",IS.AIR.DPRT,1890
+Bhutan,BTN,2002,"Air transport, registered carrier departures worldwide",IS.AIR.DPRT,1948
+Bhutan,BTN,2001,"Air transport, registered carrier departures worldwide",IS.AIR.DPRT,1297
+Bhutan,BTN,2000,"Air transport, registered carrier departures worldwide",IS.AIR.DPRT,1138
+Bhutan,BTN,1999,"Air transport, registered carrier departures worldwide",IS.AIR.DPRT,1100
+Bhutan,BTN,1998,"Air transport, registered carrier departures worldwide",IS.AIR.DPRT,1000
+Bhutan,BTN,1997,"Air transport, registered carrier departures worldwide",IS.AIR.DPRT,1000
+Bhutan,BTN,1996,"Air transport, registered carrier departures worldwide",IS.AIR.DPRT,900
+Bhutan,BTN,1995,"Air transport, registered carrier departures worldwide",IS.AIR.DPRT,900
+Bhutan,BTN,1994,"Air transport, registered carrier departures worldwide",IS.AIR.DPRT,600
+Bhutan,BTN,1993,"Air transport, registered carrier departures worldwide",IS.AIR.DPRT,600
+Bhutan,BTN,1992,"Air transport, registered carrier departures worldwide",IS.AIR.DPRT,600
+Bhutan,BTN,1991,"Air transport, registered carrier departures worldwide",IS.AIR.DPRT,600
+Bhutan,BTN,1990,"Air transport, registered carrier departures worldwide",IS.AIR.DPRT,600
+Bhutan,BTN,1989,"Air transport, registered carrier departures worldwide",IS.AIR.DPRT,600
+Bhutan,BTN,1988,"Air transport, registered carrier departures worldwide",IS.AIR.DPRT,600
+Bhutan,BTN,2021,"Air transport, freight (million ton-km)",IS.AIR.GOOD.MT.K1,0.358154
+Bhutan,BTN,2020,"Air transport, freight (million ton-km)",IS.AIR.GOOD.MT.K1,0.510072
+Bhutan,BTN,2019,"Air transport, freight (million ton-km)",IS.AIR.GOOD.MT.K1,0.318844
+Bhutan,BTN,2018,"Air transport, freight (million ton-km)",IS.AIR.GOOD.MT.K1,0.690916
+Bhutan,BTN,2017,"Air transport, freight (million ton-km)",IS.AIR.GOOD.MT.K1,0.530672
+Bhutan,BTN,2016,"Air transport, freight (million ton-km)",IS.AIR.GOOD.MT.K1,0.65910068
+Bhutan,BTN,2015,"Air transport, freight (million ton-km)",IS.AIR.GOOD.MT.K1,0.538041372
+Bhutan,BTN,2014,"Air transport, freight (million ton-km)",IS.AIR.GOOD.MT.K1,0.922884
+Bhutan,BTN,2013,"Air transport, freight (million ton-km)",IS.AIR.GOOD.MT.K1,0.635292
+Bhutan,BTN,2012,"Air transport, freight (million ton-km)",IS.AIR.GOOD.MT.K1,0.471
+Bhutan,BTN,2011,"Air transport, freight (million ton-km)",IS.AIR.GOOD.MT.K1,0.483705822187223
+Bhutan,BTN,2010,"Air transport, freight (million ton-km)",IS.AIR.GOOD.MT.K1,0.421937731663489
+Bhutan,BTN,2009,"Air transport, freight (million ton-km)",IS.AIR.GOOD.MT.K1,0.448
+Bhutan,BTN,2008,"Air transport, freight (million ton-km)",IS.AIR.GOOD.MT.K1,0.264
+Bhutan,BTN,2007,"Air transport, freight (million ton-km)",IS.AIR.GOOD.MT.K1,0.279
+Bhutan,BTN,2006,"Air transport, freight (million ton-km)",IS.AIR.GOOD.MT.K1,0.263
+Bhutan,BTN,2005,"Air transport, freight (million ton-km)",IS.AIR.GOOD.MT.K1,0.253
+Bhutan,BTN,2004,"Air transport, freight (million ton-km)",IS.AIR.GOOD.MT.K1,0.246
+Bhutan,BTN,2003,"Air transport, freight (million ton-km)",IS.AIR.GOOD.MT.K1,0.21
+Bhutan,BTN,2002,"Air transport, freight (million ton-km)",IS.AIR.GOOD.MT.K1,0.2
+Bhutan,BTN,2001,"Air transport, freight (million ton-km)",IS.AIR.GOOD.MT.K1,0
+Bhutan,BTN,2000,"Air transport, freight (million ton-km)",IS.AIR.GOOD.MT.K1,0
+Bhutan,BTN,2021,"Air transport, passengers carried",IS.AIR.PSGR,22380
+Bhutan,BTN,2020,"Air transport, passengers carried",IS.AIR.PSGR,48825
+Bhutan,BTN,2019,"Air transport, passengers carried",IS.AIR.PSGR,276092
+Bhutan,BTN,2018,"Air transport, passengers carried",IS.AIR.PSGR,275849
+Bhutan,BTN,2017,"Air transport, passengers carried",IS.AIR.PSGR,254643
+Bhutan,BTN,2016,"Air transport, passengers carried",IS.AIR.PSGR,224101
+Bhutan,BTN,2015,"Air transport, passengers carried",IS.AIR.PSGR,162864
+Bhutan,BTN,2014,"Air transport, passengers carried",IS.AIR.PSGR,302160
+Bhutan,BTN,2013,"Air transport, passengers carried",IS.AIR.PSGR,207996
+Bhutan,BTN,2012,"Air transport, passengers carried",IS.AIR.PSGR,193405
+Bhutan,BTN,2011,"Air transport, passengers carried",IS.AIR.PSGR,226153.126621635
+Bhutan,BTN,2010,"Air transport, passengers carried",IS.AIR.PSGR,181537.371716438
+Bhutan,BTN,2009,"Air transport, passengers carried",IS.AIR.PSGR,49056
+Bhutan,BTN,2008,"Air transport, passengers carried",IS.AIR.PSGR,52805
+Bhutan,BTN,2007,"Air transport, passengers carried",IS.AIR.PSGR,53609
+Bhutan,BTN,2006,"Air transport, passengers carried",IS.AIR.PSGR,51056
+Bhutan,BTN,2005,"Air transport, passengers carried",IS.AIR.PSGR,49092
+Bhutan,BTN,2004,"Air transport, passengers carried",IS.AIR.PSGR,45456
+Bhutan,BTN,2003,"Air transport, passengers carried",IS.AIR.PSGR,36365
+Bhutan,BTN,2002,"Air transport, passengers carried",IS.AIR.PSGR,40859
+Bhutan,BTN,2001,"Air transport, passengers carried",IS.AIR.PSGR,35114
+Bhutan,BTN,2000,"Air transport, passengers carried",IS.AIR.PSGR,34425
+Bhutan,BTN,1999,"Air transport, passengers carried",IS.AIR.PSGR,30700
+Bhutan,BTN,1998,"Air transport, passengers carried",IS.AIR.PSGR,36100
+Bhutan,BTN,1997,"Air transport, passengers carried",IS.AIR.PSGR,36100
+Bhutan,BTN,1996,"Air transport, passengers carried",IS.AIR.PSGR,35000
+Bhutan,BTN,1995,"Air transport, passengers carried",IS.AIR.PSGR,29700
+Bhutan,BTN,1994,"Air transport, passengers carried",IS.AIR.PSGR,8700
+Bhutan,BTN,1993,"Air transport, passengers carried",IS.AIR.PSGR,8700
+Bhutan,BTN,1992,"Air transport, passengers carried",IS.AIR.PSGR,8700
+Bhutan,BTN,1991,"Air transport, passengers carried",IS.AIR.PSGR,8000
+Bhutan,BTN,1990,"Air transport, passengers carried",IS.AIR.PSGR,8000
+Bhutan,BTN,1989,"Air transport, passengers carried",IS.AIR.PSGR,8000
+Bhutan,BTN,1988,"Air transport, passengers carried",IS.AIR.PSGR,8000
+Bhutan,BTN,2022,Mobile cellular subscriptions,IT.CEL.SETS,742493
+Bhutan,BTN,2021,Mobile cellular subscriptions,IT.CEL.SETS,778008
+Bhutan,BTN,2020,Mobile cellular subscriptions,IT.CEL.SETS,745137
+Bhutan,BTN,2019,Mobile cellular subscriptions,IT.CEL.SETS,729239
+Bhutan,BTN,2018,Mobile cellular subscriptions,IT.CEL.SETS,703554
+Bhutan,BTN,2017,Mobile cellular subscriptions,IT.CEL.SETS,730623
+Bhutan,BTN,2016,Mobile cellular subscriptions,IT.CEL.SETS,698373
+Bhutan,BTN,2015,Mobile cellular subscriptions,IT.CEL.SETS,675747
+Bhutan,BTN,2014,Mobile cellular subscriptions,IT.CEL.SETS,624536
+Bhutan,BTN,2013,Mobile cellular subscriptions,IT.CEL.SETS,544337
+Bhutan,BTN,2012,Mobile cellular subscriptions,IT.CEL.SETS,560890
+Bhutan,BTN,2011,Mobile cellular subscriptions,IT.CEL.SETS,484189
+Bhutan,BTN,2010,Mobile cellular subscriptions,IT.CEL.SETS,394316
+Bhutan,BTN,2009,Mobile cellular subscriptions,IT.CEL.SETS,338938
+Bhutan,BTN,2008,Mobile cellular subscriptions,IT.CEL.SETS,253429
+Bhutan,BTN,2007,Mobile cellular subscriptions,IT.CEL.SETS,149439
+Bhutan,BTN,2006,Mobile cellular subscriptions,IT.CEL.SETS,82078
+Bhutan,BTN,2005,Mobile cellular subscriptions,IT.CEL.SETS,36000
+Bhutan,BTN,2004,Mobile cellular subscriptions,IT.CEL.SETS,19138
+Bhutan,BTN,2003,Mobile cellular subscriptions,IT.CEL.SETS,2255
+Bhutan,BTN,2002,Mobile cellular subscriptions,IT.CEL.SETS,0
+Bhutan,BTN,2001,Mobile cellular subscriptions,IT.CEL.SETS,0
+Bhutan,BTN,2000,Mobile cellular subscriptions,IT.CEL.SETS,0
+Bhutan,BTN,1999,Mobile cellular subscriptions,IT.CEL.SETS,0
+Bhutan,BTN,1998,Mobile cellular subscriptions,IT.CEL.SETS,0
+Bhutan,BTN,1997,Mobile cellular subscriptions,IT.CEL.SETS,0
+Bhutan,BTN,1996,Mobile cellular subscriptions,IT.CEL.SETS,0
+Bhutan,BTN,1995,Mobile cellular subscriptions,IT.CEL.SETS,0
+Bhutan,BTN,1994,Mobile cellular subscriptions,IT.CEL.SETS,0
+Bhutan,BTN,1993,Mobile cellular subscriptions,IT.CEL.SETS,0
+Bhutan,BTN,1992,Mobile cellular subscriptions,IT.CEL.SETS,0
+Bhutan,BTN,1991,Mobile cellular subscriptions,IT.CEL.SETS,0
+Bhutan,BTN,1990,Mobile cellular subscriptions,IT.CEL.SETS,0
+Bhutan,BTN,1989,Mobile cellular subscriptions,IT.CEL.SETS,0
+Bhutan,BTN,1988,Mobile cellular subscriptions,IT.CEL.SETS,0
+Bhutan,BTN,1987,Mobile cellular subscriptions,IT.CEL.SETS,0
+Bhutan,BTN,1986,Mobile cellular subscriptions,IT.CEL.SETS,0
+Bhutan,BTN,1985,Mobile cellular subscriptions,IT.CEL.SETS,0
+Bhutan,BTN,1984,Mobile cellular subscriptions,IT.CEL.SETS,0
+Bhutan,BTN,1983,Mobile cellular subscriptions,IT.CEL.SETS,0
+Bhutan,BTN,1982,Mobile cellular subscriptions,IT.CEL.SETS,0
+Bhutan,BTN,1981,Mobile cellular subscriptions,IT.CEL.SETS,0
+Bhutan,BTN,1980,Mobile cellular subscriptions,IT.CEL.SETS,0
+Bhutan,BTN,1979,Mobile cellular subscriptions,IT.CEL.SETS,0
+Bhutan,BTN,1978,Mobile cellular subscriptions,IT.CEL.SETS,0
+Bhutan,BTN,1977,Mobile cellular subscriptions,IT.CEL.SETS,0
+Bhutan,BTN,1976,Mobile cellular subscriptions,IT.CEL.SETS,0
+Bhutan,BTN,1975,Mobile cellular subscriptions,IT.CEL.SETS,0
+Bhutan,BTN,1970,Mobile cellular subscriptions,IT.CEL.SETS,0
+Bhutan,BTN,1965,Mobile cellular subscriptions,IT.CEL.SETS,0
+Bhutan,BTN,1960,Mobile cellular subscriptions,IT.CEL.SETS,0
+Bhutan,BTN,2022,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,94.89274144
+Bhutan,BTN,2021,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,100.0671395
+Bhutan,BTN,2020,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,96.4571149
+Bhutan,BTN,2019,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,95.0199294
+Bhutan,BTN,2018,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,92.31829061
+Bhutan,BTN,2017,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,96.62766062
+Bhutan,BTN,2016,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,93.14595832
+Bhutan,BTN,2015,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,90.91492505
+Bhutan,BTN,2014,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,84.81429524
+Bhutan,BTN,2013,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,74.68047217
+Bhutan,BTN,2012,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,77.77759289
+Bhutan,BTN,2011,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,67.8772798
+Bhutan,BTN,2010,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,55.89044047
+Bhutan,BTN,2009,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,48.58086395
+Bhutan,BTN,2008,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,36.74284546
+Bhutan,BTN,2007,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,21.92428559
+Bhutan,BTN,2006,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,12.19112973
+Bhutan,BTN,2005,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,5.427220223
+Bhutan,BTN,2004,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,2.94434846
+Bhutan,BTN,2003,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,0.35532683
+Bhutan,BTN,2002,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,0
+Bhutan,BTN,2001,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,0
+Bhutan,BTN,2000,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,0
+Bhutan,BTN,1999,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,0
+Bhutan,BTN,1998,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,0
+Bhutan,BTN,1997,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,0
+Bhutan,BTN,1996,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,0
+Bhutan,BTN,1995,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,0
+Bhutan,BTN,1994,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,0
+Bhutan,BTN,1993,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,0
+Bhutan,BTN,1992,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,0
+Bhutan,BTN,1991,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,0
+Bhutan,BTN,1990,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,0
+Bhutan,BTN,1989,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,0
+Bhutan,BTN,1988,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,0
+Bhutan,BTN,1987,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,0
+Bhutan,BTN,1986,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,0
+Bhutan,BTN,1985,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,0
+Bhutan,BTN,1984,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,0
+Bhutan,BTN,1983,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,0
+Bhutan,BTN,1982,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,0
+Bhutan,BTN,1981,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,0
+Bhutan,BTN,1980,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,0
+Bhutan,BTN,1979,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,0
+Bhutan,BTN,1978,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,0
+Bhutan,BTN,1977,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,0
+Bhutan,BTN,1976,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,0
+Bhutan,BTN,1975,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,0
+Bhutan,BTN,1970,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,0
+Bhutan,BTN,1965,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,0
+Bhutan,BTN,1960,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,0
+Bhutan,BTN,2022,Fixed telephone subscriptions,IT.MLT.MAIN,19566
+Bhutan,BTN,2021,Fixed telephone subscriptions,IT.MLT.MAIN,19680
+Bhutan,BTN,2020,Fixed telephone subscriptions,IT.MLT.MAIN,22987
+Bhutan,BTN,2019,Fixed telephone subscriptions,IT.MLT.MAIN,21581
+Bhutan,BTN,2018,Fixed telephone subscriptions,IT.MLT.MAIN,22015
+Bhutan,BTN,2017,Fixed telephone subscriptions,IT.MLT.MAIN,21364
+Bhutan,BTN,2016,Fixed telephone subscriptions,IT.MLT.MAIN,21081
+Bhutan,BTN,2015,Fixed telephone subscriptions,IT.MLT.MAIN,21811
+Bhutan,BTN,2014,Fixed telephone subscriptions,IT.MLT.MAIN,23823
+Bhutan,BTN,2013,Fixed telephone subscriptions,IT.MLT.MAIN,26485
+Bhutan,BTN,2012,Fixed telephone subscriptions,IT.MLT.MAIN,27005
+Bhutan,BTN,2011,Fixed telephone subscriptions,IT.MLT.MAIN,27490
+Bhutan,BTN,2010,Fixed telephone subscriptions,IT.MLT.MAIN,26292
+Bhutan,BTN,2009,Fixed telephone subscriptions,IT.MLT.MAIN,26348
+Bhutan,BTN,2008,Fixed telephone subscriptions,IT.MLT.MAIN,27475
+Bhutan,BTN,2007,Fixed telephone subscriptions,IT.MLT.MAIN,29857
+Bhutan,BTN,2006,Fixed telephone subscriptions,IT.MLT.MAIN,31526
+Bhutan,BTN,2005,Fixed telephone subscriptions,IT.MLT.MAIN,33000
+Bhutan,BTN,2004,Fixed telephone subscriptions,IT.MLT.MAIN,30285
+Bhutan,BTN,2003,Fixed telephone subscriptions,IT.MLT.MAIN,23657
+Bhutan,BTN,2002,Fixed telephone subscriptions,IT.MLT.MAIN,19615
+Bhutan,BTN,2001,Fixed telephone subscriptions,IT.MLT.MAIN,17553
+Bhutan,BTN,2000,Fixed telephone subscriptions,IT.MLT.MAIN,14145
+Bhutan,BTN,1999,Fixed telephone subscriptions,IT.MLT.MAIN,11990
+Bhutan,BTN,1998,Fixed telephone subscriptions,IT.MLT.MAIN,10437
+Bhutan,BTN,1997,Fixed telephone subscriptions,IT.MLT.MAIN,6430
+Bhutan,BTN,1996,Fixed telephone subscriptions,IT.MLT.MAIN,6074
+Bhutan,BTN,1995,Fixed telephone subscriptions,IT.MLT.MAIN,5243
+Bhutan,BTN,1994,Fixed telephone subscriptions,IT.MLT.MAIN,4572
+Bhutan,BTN,1993,Fixed telephone subscriptions,IT.MLT.MAIN,3809
+Bhutan,BTN,1992,Fixed telephone subscriptions,IT.MLT.MAIN,2959
+Bhutan,BTN,1991,Fixed telephone subscriptions,IT.MLT.MAIN,2500
+Bhutan,BTN,1990,Fixed telephone subscriptions,IT.MLT.MAIN,1871
+Bhutan,BTN,1989,Fixed telephone subscriptions,IT.MLT.MAIN,1838
+Bhutan,BTN,1988,Fixed telephone subscriptions,IT.MLT.MAIN,1700
+Bhutan,BTN,1987,Fixed telephone subscriptions,IT.MLT.MAIN,1650
+Bhutan,BTN,1986,Fixed telephone subscriptions,IT.MLT.MAIN,1600
+Bhutan,BTN,1985,Fixed telephone subscriptions,IT.MLT.MAIN,1500
+Bhutan,BTN,1984,Fixed telephone subscriptions,IT.MLT.MAIN,1450
+Bhutan,BTN,1983,Fixed telephone subscriptions,IT.MLT.MAIN,1400
+Bhutan,BTN,1982,Fixed telephone subscriptions,IT.MLT.MAIN,1300
+Bhutan,BTN,1981,Fixed telephone subscriptions,IT.MLT.MAIN,1200
+Bhutan,BTN,1980,Fixed telephone subscriptions,IT.MLT.MAIN,1190
+Bhutan,BTN,1979,Fixed telephone subscriptions,IT.MLT.MAIN,1100
+Bhutan,BTN,1978,Fixed telephone subscriptions,IT.MLT.MAIN,670
+Bhutan,BTN,1977,Fixed telephone subscriptions,IT.MLT.MAIN,670
+Bhutan,BTN,1976,Fixed telephone subscriptions,IT.MLT.MAIN,670
+Bhutan,BTN,1975,Fixed telephone subscriptions,IT.MLT.MAIN,570
+Bhutan,BTN,1974,Fixed telephone subscriptions,IT.MLT.MAIN,385
+Bhutan,BTN,1973,Fixed telephone subscriptions,IT.MLT.MAIN,385
+Bhutan,BTN,1972,Fixed telephone subscriptions,IT.MLT.MAIN,385
+Bhutan,BTN,1971,Fixed telephone subscriptions,IT.MLT.MAIN,385
+Bhutan,BTN,1970,Fixed telephone subscriptions,IT.MLT.MAIN,385
+Bhutan,BTN,1969,Fixed telephone subscriptions,IT.MLT.MAIN,250
+Bhutan,BTN,1968,Fixed telephone subscriptions,IT.MLT.MAIN,250
+Bhutan,BTN,1967,Fixed telephone subscriptions,IT.MLT.MAIN,250
+Bhutan,BTN,1966,Fixed telephone subscriptions,IT.MLT.MAIN,250
+Bhutan,BTN,1965,Fixed telephone subscriptions,IT.MLT.MAIN,250
+Bhutan,BTN,1964,Fixed telephone subscriptions,IT.MLT.MAIN,0
+Bhutan,BTN,1963,Fixed telephone subscriptions,IT.MLT.MAIN,0
+Bhutan,BTN,1962,Fixed telephone subscriptions,IT.MLT.MAIN,0
+Bhutan,BTN,1961,Fixed telephone subscriptions,IT.MLT.MAIN,0
+Bhutan,BTN,1960,Fixed telephone subscriptions,IT.MLT.MAIN,0
+Bhutan,BTN,2022,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,2.500591088
+Bhutan,BTN,2021,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,2.531235289
+Bhutan,BTN,2020,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,2.975640319
+Bhutan,BTN,2019,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,2.812006895
+Bhutan,BTN,2018,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,2.888743675
+Bhutan,BTN,2017,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,2.825469964
+Bhutan,BTN,2016,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,2.811692244
+Bhutan,BTN,2015,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,2.934449476
+Bhutan,BTN,2014,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,3.235251379
+Bhutan,BTN,2013,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,3.633617236
+Bhutan,BTN,2012,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,3.744734076
+Bhutan,BTN,2011,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,3.853756326
+Bhutan,BTN,2010,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,3.726634123
+Bhutan,BTN,2009,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,3.77652728
+Bhutan,BTN,2008,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,3.983402369
+Bhutan,BTN,2007,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,4.380338432
+Bhutan,BTN,2006,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,4.682589193
+Bhutan,BTN,2005,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,4.974951871
+Bhutan,BTN,2004,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,4.659295283
+Bhutan,BTN,2003,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,3.727701469
+Bhutan,BTN,2002,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,3.168574973
+Bhutan,BTN,2001,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,2.909816091
+Bhutan,BTN,2000,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,2.40886093
+Bhutan,BTN,1999,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,2.099861644
+Bhutan,BTN,1998,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,1.873310574
+Bhutan,BTN,1997,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,1.175792929
+Bhutan,BTN,1996,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,1.130059126
+Bhutan,BTN,1995,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,0.993865821
+Bhutan,BTN,1994,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,0.877105475
+Bhutan,BTN,1993,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,0.731321447
+Bhutan,BTN,1992,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,0.541996981
+Bhutan,BTN,1991,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,0.44036568
+Bhutan,BTN,1990,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,0.33503927
+Bhutan,BTN,1989,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,0.337737891
+Bhutan,BTN,1988,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,0.32133008
+Bhutan,BTN,1987,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,0.320995436
+Bhutan,BTN,1986,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,0.320544284
+Bhutan,BTN,1985,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,0.309579632
+Bhutan,BTN,1984,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,0.308402369
+Bhutan,BTN,1983,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,0.306995327
+Bhutan,BTN,1982,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,0.293983958
+Bhutan,BTN,1981,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,0.279954554
+Bhutan,BTN,1980,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,0.286568832
+Bhutan,BTN,1979,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,0.273588965
+Bhutan,BTN,1978,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,0.172204631
+Bhutan,BTN,1977,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,0.178008273
+Bhutan,BTN,1976,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,0.184005778
+Bhutan,BTN,1975,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,0.161807704
+Bhutan,BTN,1974,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,0.129492
+Bhutan,BTN,1973,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,0.129492
+Bhutan,BTN,1972,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,0.129492
+Bhutan,BTN,1971,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,0.129492
+Bhutan,BTN,1970,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,0.128808206
+Bhutan,BTN,1969,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,0.0984275
+Bhutan,BTN,1968,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,0.0984275
+Bhutan,BTN,1967,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,0.0984275
+Bhutan,BTN,1966,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,0.0984275
+Bhutan,BTN,1965,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,0.098035371
+Bhutan,BTN,1964,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,0
+Bhutan,BTN,1963,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,0
+Bhutan,BTN,1962,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,0
+Bhutan,BTN,1961,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,0
+Bhutan,BTN,1960,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,0
+Bhutan,BTN,2022,Fixed broadband subscriptions,IT.NET.BBND,4934
+Bhutan,BTN,2021,Fixed broadband subscriptions,IT.NET.BBND,2777
+Bhutan,BTN,2020,Fixed broadband subscriptions,IT.NET.BBND,3189
+Bhutan,BTN,2019,Fixed broadband subscriptions,IT.NET.BBND,8774
+Bhutan,BTN,2018,Fixed broadband subscriptions,IT.NET.BBND,10802
+Bhutan,BTN,2017,Fixed broadband subscriptions,IT.NET.BBND,16707
+Bhutan,BTN,2016,Fixed broadband subscriptions,IT.NET.BBND,16489
+Bhutan,BTN,2015,Fixed broadband subscriptions,IT.NET.BBND,27874
+Bhutan,BTN,2014,Fixed broadband subscriptions,IT.NET.BBND,24979
+Bhutan,BTN,2013,Fixed broadband subscriptions,IT.NET.BBND,20481
+Bhutan,BTN,2012,Fixed broadband subscriptions,IT.NET.BBND,16766
+Bhutan,BTN,2011,Fixed broadband subscriptions,IT.NET.BBND,13233
+Bhutan,BTN,2010,Fixed broadband subscriptions,IT.NET.BBND,8675
+Bhutan,BTN,2009,Fixed broadband subscriptions,IT.NET.BBND,3378
+Bhutan,BTN,2008,Fixed broadband subscriptions,IT.NET.BBND,2060
+Bhutan,BTN,2022,Fixed broadband subscriptions (per 100 people),IT.NET.BBND.P2,0.630579394
+Bhutan,BTN,2021,Fixed broadband subscriptions (per 100 people),IT.NET.BBND.P2,0.357176849
+Bhutan,BTN,2020,Fixed broadband subscriptions (per 100 people),IT.NET.BBND.P2,0.412812328
+Bhutan,BTN,2019,Fixed broadband subscriptions (per 100 people),IT.NET.BBND.P2,1.143253255
+Bhutan,BTN,2018,Fixed broadband subscriptions (per 100 people),IT.NET.BBND.P2,1.417406731
+Bhutan,BTN,2017,Fixed broadband subscriptions (per 100 people),IT.NET.BBND.P2,2.209564065
+Bhutan,BTN,2016,Fixed broadband subscriptions (per 100 people),IT.NET.BBND.P2,2.199231223
+Bhutan,BTN,2015,Fixed broadband subscriptions (per 100 people),IT.NET.BBND.P2,3.750164811
+Bhutan,BTN,2014,Fixed broadband subscriptions (per 100 people),IT.NET.BBND.P2,3.392240449
+Bhutan,BTN,2013,Fixed broadband subscriptions (per 100 people),IT.NET.BBND.P2,2.809896719
+Bhutan,BTN,2012,Fixed broadband subscriptions (per 100 people),IT.NET.BBND.P2,2.324910628
+Bhutan,BTN,2011,Fixed broadband subscriptions (per 100 people),IT.NET.BBND.P2,1.855102127
+Bhutan,BTN,2010,Fixed broadband subscriptions (per 100 people),IT.NET.BBND.P2,1.229596494
+Bhutan,BTN,2009,Fixed broadband subscriptions (per 100 people),IT.NET.BBND.P2,0.484177515
+Bhutan,BTN,2008,Fixed broadband subscriptions (per 100 people),IT.NET.BBND.P2,0.298664563
+Bhutan,BTN,2020,Secure Internet servers,IT.NET.SECR,527
+Bhutan,BTN,2019,Secure Internet servers,IT.NET.SECR,365
+Bhutan,BTN,2018,Secure Internet servers,IT.NET.SECR,134
+Bhutan,BTN,2017,Secure Internet servers,IT.NET.SECR,88
+Bhutan,BTN,2016,Secure Internet servers,IT.NET.SECR,27
+Bhutan,BTN,2015,Secure Internet servers,IT.NET.SECR,14
+Bhutan,BTN,2014,Secure Internet servers,IT.NET.SECR,13
+Bhutan,BTN,2013,Secure Internet servers,IT.NET.SECR,7
+Bhutan,BTN,2012,Secure Internet servers,IT.NET.SECR,8
+Bhutan,BTN,2011,Secure Internet servers,IT.NET.SECR,2
+Bhutan,BTN,2010,Secure Internet servers,IT.NET.SECR,1
+Bhutan,BTN,2020,Secure Internet servers (per 1 million people),IT.NET.SECR.P6,682.195348644541
+Bhutan,BTN,2019,Secure Internet servers (per 1 million people),IT.NET.SECR.P6,475.59543897459
+Bhutan,BTN,2018,Secure Internet servers (per 1 million people),IT.NET.SECR.P6,175.83086645252
+Bhutan,BTN,2017,Secure Internet servers (per 1 million people),IT.NET.SECR.P6,116.383488886038
+Bhutan,BTN,2016,Secure Internet servers (per 1 million people),IT.NET.SECR.P6,36.0114756569093
+Bhutan,BTN,2015,Secure Internet servers (per 1 million people),IT.NET.SECR.P6,18.8355841856435
+Bhutan,BTN,2014,Secure Internet servers (per 1 million people),IT.NET.SECR.P6,17.6544800959317
+Bhutan,BTN,2013,Secure Internet servers (per 1 million people),IT.NET.SECR.P6,9.60365707261325
+Bhutan,BTN,2012,Secure Internet servers (per 1 million people),IT.NET.SECR.P6,11.0934694132248
+Bhutan,BTN,2011,Secure Internet servers (per 1 million people),IT.NET.SECR.P6,2.80374748889366
+Bhutan,BTN,2010,Secure Internet servers (per 1 million people),IT.NET.SECR.P6,1.41740229845957
+Bhutan,BTN,2021,Individuals using the Internet (% of population),IT.NET.USER.ZS,85.63688389
+Bhutan,BTN,2020,Individuals using the Internet (% of population),IT.NET.USER.ZS,79.86984884
+Bhutan,BTN,2019,Individuals using the Internet (% of population),IT.NET.USER.ZS,74.17944255
+Bhutan,BTN,2018,Individuals using the Internet (% of population),IT.NET.USER.ZS,63.5
+Bhutan,BTN,2017,Individuals using the Internet (% of population),IT.NET.USER.ZS,54.3
+Bhutan,BTN,2016,Individuals using the Internet (% of population),IT.NET.USER.ZS,46.5
+Bhutan,BTN,2015,Individuals using the Internet (% of population),IT.NET.USER.ZS,39.8
+Bhutan,BTN,2014,Individuals using the Internet (% of population),IT.NET.USER.ZS,30.3
+Bhutan,BTN,2013,Individuals using the Internet (% of population),IT.NET.USER.ZS,22.4
+Bhutan,BTN,2012,Individuals using the Internet (% of population),IT.NET.USER.ZS,15.6
+Bhutan,BTN,2011,Individuals using the Internet (% of population),IT.NET.USER.ZS,14.4
+Bhutan,BTN,2010,Individuals using the Internet (% of population),IT.NET.USER.ZS,13.6
+Bhutan,BTN,2009,Individuals using the Internet (% of population),IT.NET.USER.ZS,7.17
+Bhutan,BTN,2008,Individuals using the Internet (% of population),IT.NET.USER.ZS,6.55
+Bhutan,BTN,2007,Individuals using the Internet (% of population),IT.NET.USER.ZS,5.92
+Bhutan,BTN,2006,Individuals using the Internet (% of population),IT.NET.USER.ZS,4.518317258
+Bhutan,BTN,2005,Individuals using the Internet (% of population),IT.NET.USER.ZS,3.847106745
+Bhutan,BTN,2004,Individuals using the Internet (% of population),IT.NET.USER.ZS,3.156984196
+Bhutan,BTN,2003,Individuals using the Internet (% of population),IT.NET.USER.ZS,2.436912399
+Bhutan,BTN,2002,Individuals using the Internet (% of population),IT.NET.USER.ZS,1.675802584
+Bhutan,BTN,2001,Individuals using the Internet (% of population),IT.NET.USER.ZS,0.864628564
+Bhutan,BTN,2000,Individuals using the Internet (% of population),IT.NET.USER.ZS,0.400944447
+Bhutan,BTN,1999,Individuals using the Internet (% of population),IT.NET.USER.ZS,0.137571514
+Bhutan,BTN,1995,Individuals using the Internet (% of population),IT.NET.USER.ZS,0
+Bhutan,BTN,1994,Individuals using the Internet (% of population),IT.NET.USER.ZS,0
+Bhutan,BTN,1993,Individuals using the Internet (% of population),IT.NET.USER.ZS,0
+Bhutan,BTN,1992,Individuals using the Internet (% of population),IT.NET.USER.ZS,0
+Bhutan,BTN,1991,Individuals using the Internet (% of population),IT.NET.USER.ZS,0
+Bhutan,BTN,1990,Individuals using the Internet (% of population),IT.NET.USER.ZS,0
+Bhutan,BTN,2012,ICT goods imports (% total goods imports),TM.VAL.ICTG.ZS.UN,2.3828372034
+Bhutan,BTN,2011,ICT goods imports (% total goods imports),TM.VAL.ICTG.ZS.UN,2.3835386779
+Bhutan,BTN,2010,ICT goods imports (% total goods imports),TM.VAL.ICTG.ZS.UN,2.4904110508
+Bhutan,BTN,2009,ICT goods imports (% total goods imports),TM.VAL.ICTG.ZS.UN,5.3818326685
+Bhutan,BTN,2008,ICT goods imports (% total goods imports),TM.VAL.ICTG.ZS.UN,4.0360645775
+Bhutan,BTN,2007,ICT goods imports (% total goods imports),TM.VAL.ICTG.ZS.UN,4.8242964484
+Bhutan,BTN,2006,ICT goods imports (% total goods imports),TM.VAL.ICTG.ZS.UN,4.7063025218
+Bhutan,BTN,2005,ICT goods imports (% total goods imports),TM.VAL.ICTG.ZS.UN,5.2888224333
+Bhutan,BTN,2011,ICT goods exports (% of total goods exports),TX.VAL.ICTG.ZS.UN,15.8746121042
+Bhutan,BTN,2010,ICT goods exports (% of total goods exports),TX.VAL.ICTG.ZS.UN,11.3468142025
+Bhutan,BTN,2009,ICT goods exports (% of total goods exports),TX.VAL.ICTG.ZS.UN,2.581139123
+Bhutan,BTN,2008,ICT goods exports (% of total goods exports),TX.VAL.ICTG.ZS.UN,0.0011198365
+Bhutan,BTN,2007,ICT goods exports (% of total goods exports),TX.VAL.ICTG.ZS.UN,15.3451569132
+Bhutan,BTN,2006,ICT goods exports (% of total goods exports),TX.VAL.ICTG.ZS.UN,0.1229356631
+Bhutan,BTN,2005,ICT goods exports (% of total goods exports),TX.VAL.ICTG.ZS.UN,0.9405941418
+Bhutan,BTN,2008,Personal computers (per 100 people),IT.CMP.PCMP.P2,2.01008616569364
+Bhutan,BTN,2007,Personal computers (per 100 people),IT.CMP.PCMP.P2,1.91013061082066
+Bhutan,BTN,2006,Personal computers (per 100 people),IT.CMP.PCMP.P2,1.82534491413273
+Bhutan,BTN,2005,Personal computers (per 100 people),IT.CMP.PCMP.P2,1.74184070943785
+Bhutan,BTN,2004,Personal computers (per 100 people),IT.CMP.PCMP.P2,1.65932233901834
+Bhutan,BTN,2003,Personal computers (per 100 people),IT.CMP.PCMP.P2,1.59276502415428
+Bhutan,BTN,2002,Personal computers (per 100 people),IT.CMP.PCMP.P2,1.62332918843281
+Bhutan,BTN,2001,Personal computers (per 100 people),IT.CMP.PCMP.P2,1.15963156848453
+Bhutan,BTN,2000,Personal computers (per 100 people),IT.CMP.PCMP.P2,0.845993627975994
+Bhutan,BTN,1999,Personal computers (per 100 people),IT.CMP.PCMP.P2,0.519138023226235
+Bhutan,BTN,1998,Personal computers (per 100 people),IT.CMP.PCMP.P2,0.442966315069537

@@ -1,0 +1,97 @@
+Country Name,Country ISO3,Year,Indicator Name,Indicator Code,Value
+#country+name,#country+code,#date+year,#indicator+name,#indicator+code,#indicator+value+num
+Bhutan,BTN,2022,Income share held by second 20%,SI.DST.02ND.20,13.5
+Bhutan,BTN,2017,Income share held by second 20%,SI.DST.02ND.20,10.8
+Bhutan,BTN,2012,Income share held by second 20%,SI.DST.02ND.20,10.8
+Bhutan,BTN,2007,Income share held by second 20%,SI.DST.02ND.20,10.8
+Bhutan,BTN,2003,Income share held by second 20%,SI.DST.02ND.20,10
+Bhutan,BTN,2022,Income share held by third 20%,SI.DST.03RD.20,17.6
+Bhutan,BTN,2017,Income share held by third 20%,SI.DST.03RD.20,15.5
+Bhutan,BTN,2012,Income share held by third 20%,SI.DST.03RD.20,15
+Bhutan,BTN,2007,Income share held by third 20%,SI.DST.03RD.20,15.3
+Bhutan,BTN,2003,Income share held by third 20%,SI.DST.03RD.20,14.2
+Bhutan,BTN,2022,Income share held by fourth 20%,SI.DST.04TH.20,22.8
+Bhutan,BTN,2017,Income share held by fourth 20%,SI.DST.04TH.20,22.7
+Bhutan,BTN,2012,Income share held by fourth 20%,SI.DST.04TH.20,21.4
+Bhutan,BTN,2007,Income share held by fourth 20%,SI.DST.04TH.20,22.1
+Bhutan,BTN,2003,Income share held by fourth 20%,SI.DST.04TH.20,21.3
+Bhutan,BTN,2022,Income share held by highest 20%,SI.DST.05TH.20,37.3
+Bhutan,BTN,2017,Income share held by highest 20%,SI.DST.05TH.20,44.4
+Bhutan,BTN,2012,Income share held by highest 20%,SI.DST.05TH.20,46.1
+Bhutan,BTN,2007,Income share held by highest 20%,SI.DST.05TH.20,45.1
+Bhutan,BTN,2003,Income share held by highest 20%,SI.DST.05TH.20,48
+Bhutan,BTN,2022,Income share held by highest 10%,SI.DST.10TH.10,22.7
+Bhutan,BTN,2017,Income share held by highest 10%,SI.DST.10TH.10,27.9
+Bhutan,BTN,2012,Income share held by highest 10%,SI.DST.10TH.10,30.7
+Bhutan,BTN,2007,Income share held by highest 10%,SI.DST.10TH.10,29.4
+Bhutan,BTN,2003,Income share held by highest 10%,SI.DST.10TH.10,32.2
+Bhutan,BTN,2022,Proportion of people living below 50 percent of median income (%),SI.DST.50MD,8.8
+Bhutan,BTN,2017,Proportion of people living below 50 percent of median income (%),SI.DST.50MD,13.8
+Bhutan,BTN,2012,Proportion of people living below 50 percent of median income (%),SI.DST.50MD,12.3
+Bhutan,BTN,2007,Proportion of people living below 50 percent of median income (%),SI.DST.50MD,13.7
+Bhutan,BTN,2003,Proportion of people living below 50 percent of median income (%),SI.DST.50MD,12.5
+Bhutan,BTN,2022,Income share held by lowest 10%,SI.DST.FRST.10,3.6
+Bhutan,BTN,2017,Income share held by lowest 10%,SI.DST.FRST.10,2.7
+Bhutan,BTN,2012,Income share held by lowest 10%,SI.DST.FRST.10,2.7
+Bhutan,BTN,2007,Income share held by lowest 10%,SI.DST.FRST.10,2.7
+Bhutan,BTN,2003,Income share held by lowest 10%,SI.DST.FRST.10,2.8
+Bhutan,BTN,2022,Income share held by lowest 20%,SI.DST.FRST.20,8.8
+Bhutan,BTN,2017,Income share held by lowest 20%,SI.DST.FRST.20,6.7
+Bhutan,BTN,2012,Income share held by lowest 20%,SI.DST.FRST.20,6.7
+Bhutan,BTN,2007,Income share held by lowest 20%,SI.DST.FRST.20,6.7
+Bhutan,BTN,2003,Income share held by lowest 20%,SI.DST.FRST.20,6.5
+Bhutan,BTN,2022,Poverty headcount ratio at $2.15 a day (2017 PPP) (% of population),SI.POV.DDAY,0
+Bhutan,BTN,2017,Poverty headcount ratio at $2.15 a day (2017 PPP) (% of population),SI.POV.DDAY,0.9
+Bhutan,BTN,2012,Poverty headcount ratio at $2.15 a day (2017 PPP) (% of population),SI.POV.DDAY,1.7
+Bhutan,BTN,2007,Poverty headcount ratio at $2.15 a day (2017 PPP) (% of population),SI.POV.DDAY,5.9
+Bhutan,BTN,2003,Poverty headcount ratio at $2.15 a day (2017 PPP) (% of population),SI.POV.DDAY,13.4
+Bhutan,BTN,2022,Poverty gap at $2.15 a day (2017 PPP) (%),SI.POV.GAPS,0
+Bhutan,BTN,2017,Poverty gap at $2.15 a day (2017 PPP) (%),SI.POV.GAPS,0.2
+Bhutan,BTN,2012,Poverty gap at $2.15 a day (2017 PPP) (%),SI.POV.GAPS,0.3
+Bhutan,BTN,2007,Poverty gap at $2.15 a day (2017 PPP) (%),SI.POV.GAPS,1.1
+Bhutan,BTN,2003,Poverty gap at $2.15 a day (2017 PPP) (%),SI.POV.GAPS,2.3
+Bhutan,BTN,2022,Gini index,SI.POV.GINI,28.5
+Bhutan,BTN,2017,Gini index,SI.POV.GINI,37.4
+Bhutan,BTN,2012,Gini index,SI.POV.GINI,38.8
+Bhutan,BTN,2007,Gini index,SI.POV.GINI,38.1
+Bhutan,BTN,2003,Gini index,SI.POV.GINI,40.9
+Bhutan,BTN,2022,Poverty headcount ratio at $3.65 a day (2017 PPP) (% of population),SI.POV.LMIC,0.5
+Bhutan,BTN,2017,Poverty headcount ratio at $3.65 a day (2017 PPP) (% of population),SI.POV.LMIC,9.4
+Bhutan,BTN,2012,Poverty headcount ratio at $3.65 a day (2017 PPP) (% of population),SI.POV.LMIC,11.9
+Bhutan,BTN,2007,Poverty headcount ratio at $3.65 a day (2017 PPP) (% of population),SI.POV.LMIC,26.6
+Bhutan,BTN,2003,Poverty headcount ratio at $3.65 a day (2017 PPP) (% of population),SI.POV.LMIC,41.6
+Bhutan,BTN,2022,Poverty gap at $3.65 a day (2017 PPP) (%),SI.POV.LMIC.GP,0.1
+Bhutan,BTN,2017,Poverty gap at $3.65 a day (2017 PPP) (%),SI.POV.LMIC.GP,1.9
+Bhutan,BTN,2012,Poverty gap at $3.65 a day (2017 PPP) (%),SI.POV.LMIC.GP,2.6
+Bhutan,BTN,2007,Poverty gap at $3.65 a day (2017 PPP) (%),SI.POV.LMIC.GP,7.2
+Bhutan,BTN,2003,Poverty gap at $3.65 a day (2017 PPP) (%),SI.POV.LMIC.GP,13
+Bhutan,BTN,2017,Multidimensional poverty headcount ratio (% of total population),SI.POV.MDIM,5.8
+Bhutan,BTN,2012,Multidimensional poverty headcount ratio (% of total population),SI.POV.MDIM,12.4
+Bhutan,BTN,2017,"Multidimensional poverty headcount ratio, children (% of population ages 0-17)",SI.POV.MDIM.17,7.2
+Bhutan,BTN,2010,"Multidimensional poverty headcount ratio, children (% of population ages 0-17)",SI.POV.MDIM.17,33.9
+Bhutan,BTN,2017,"Multidimensional poverty index, children (population ages 0-17) (scale 0-1)",SI.POV.MDIM.17.XQ,0.0283
+Bhutan,BTN,2010,"Multidimensional poverty index, children (population ages 0-17) (scale 0-1)",SI.POV.MDIM.17.XQ,0.14
+Bhutan,BTN,2017,Multidimensional poverty intensity (average share of deprivations experienced by the poor),SI.POV.MDIM.IT,39.4
+Bhutan,BTN,2012,Multidimensional poverty intensity (average share of deprivations experienced by the poor),SI.POV.MDIM.IT,40.1
+Bhutan,BTN,2017,Multidimensional poverty index (scale 0-1),SI.POV.MDIM.XQ,0.023
+Bhutan,BTN,2012,Multidimensional poverty index (scale 0-1),SI.POV.MDIM.XQ,0.05
+Bhutan,BTN,2022,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,12.4
+Bhutan,BTN,2017,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,8.2
+Bhutan,BTN,2012,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,12
+Bhutan,BTN,2007,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,23.2
+Bhutan,BTN,2022,Poverty headcount ratio at $6.85 a day (2017 PPP) (% of population),SI.POV.UMIC,8.4
+Bhutan,BTN,2017,Poverty headcount ratio at $6.85 a day (2017 PPP) (% of population),SI.POV.UMIC,39.5
+Bhutan,BTN,2012,Poverty headcount ratio at $6.85 a day (2017 PPP) (% of population),SI.POV.UMIC,44.9
+Bhutan,BTN,2007,Poverty headcount ratio at $6.85 a day (2017 PPP) (% of population),SI.POV.UMIC,62.3
+Bhutan,BTN,2003,Poverty headcount ratio at $6.85 a day (2017 PPP) (% of population),SI.POV.UMIC,73.3
+Bhutan,BTN,2022,Poverty gap at $6.85 a day (2017 PPP) (%),SI.POV.UMIC.GP,1.7
+Bhutan,BTN,2017,Poverty gap at $6.85 a day (2017 PPP) (%),SI.POV.UMIC.GP,12.6
+Bhutan,BTN,2012,Poverty gap at $6.85 a day (2017 PPP) (%),SI.POV.UMIC.GP,14.9
+Bhutan,BTN,2007,Poverty gap at $6.85 a day (2017 PPP) (%),SI.POV.UMIC.GP,25.4
+Bhutan,BTN,2003,Poverty gap at $6.85 a day (2017 PPP) (%),SI.POV.UMIC.GP,35
+Bhutan,BTN,2017,"Survey mean consumption or income per capita, bottom 40% of population (2017 PPP $ per day)",SI.SPR.PC40,4.7
+Bhutan,BTN,2012,"Survey mean consumption or income per capita, bottom 40% of population (2017 PPP $ per day)",SI.SPR.PC40,4.33
+Bhutan,BTN,2017,"Annualized average growth rate in per capita real survey mean consumption or income, bottom 40% of population (%)",SI.SPR.PC40.ZG,1.63
+Bhutan,BTN,2017,"Survey mean consumption or income per capita, total population (2017 PPP $ per day)",SI.SPR.PCAP,10.76
+Bhutan,BTN,2012,"Survey mean consumption or income per capita, total population (2017 PPP $ per day)",SI.SPR.PCAP,9.91
+Bhutan,BTN,2017,"Annualized average growth rate in per capita real survey mean consumption or income, total population (%)",SI.SPR.PCAP.ZG,1.67
